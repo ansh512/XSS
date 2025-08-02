@@ -75,48 +75,9 @@ Each sample includes:
 | CNN (Tokens)     | 0.72     | 0.77      | 0.74   |
 | CNN+LSTM (Tokens)| 0.78     | 0.73      | 0.76   |
 
-```chartjs
-{
-  "type": "bar",
-  "data": {
-    "labels": ["CNN (ASCII)", "CNN+LSTM (ASCII)", "CNN (Tokens)", "CNN+LSTM (Tokens)"],
-    "datasets": [
-      {
-        "label": "Accuracy",
-        "data": [0.75, 0.76, 0.72, 0.78],
-        "backgroundColor": "rgba(54, 162, 235, 0.8)"
-      },
-      {
-        "label": "Precision",
-        "data": [0.76, 0.84, 0.77, 0.73],
-        "backgroundColor": "rgba(255, 99, 132, 0.8)"
-      },
-      {
-        "label": "Recall",
-        "data": [0.83, 0.65, 0.74, 0.76],
-        "backgroundColor": "rgba(75, 192, 192, 0.8)"
-      }
-    ]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "max": 1
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true
-      },
-      "title": {
-        "display": true,
-        "text": "Model Performance Comparison"
-      }
-    }
-  }
-}
-```
+
+<img width="936" height="649" alt="chart" src="https://github.com/user-attachments/assets/0190fbd5-8b80-43bc-ada9-57079ca24856" />
+
 
 ---
 
@@ -163,3 +124,4 @@ Each sample includes:
    ```bash
    python evaluate_model.py
    ```
+
