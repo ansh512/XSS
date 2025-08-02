@@ -97,31 +97,3 @@ Each sample includes:
 ├── .gitignore
 └── venv/ (ignored)
 ```
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/xss-detector.git
-   cd xss-detector
-   ```
-
-2. Install dependencies:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # or venv\Scripts\activate on Windows
-   pip install -r requirements.txt
-   ```
-
-3. Train the model:
-   ```bash
-   python train_model.py
-   ```
-
-4. Evaluate on test data:
-   ```bash
-   python evaluate_model.py
-   ```
-
