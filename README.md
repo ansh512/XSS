@@ -1,9 +1,6 @@
 # 🔐 Deep Learning-Based XSS Detection
 
 This project develops a **deep learning-based system for detecting Cross-Site Scripting (XSS) attacks**, utilizing **web scraping**, **ASCII/token-based preprocessing**, and models such as **CNN** and **CNN+LSTM**.
-
-> Developed as part of the B.Tech Major Project at Tezpur University by [Anubhav Binit](https://github.com/your-username) and Hirok Jyoti Nath, under the guidance of Dr. Dhruba K Bhattacharyya.
-
 ---
 
 ## 🧠 Project Objective
@@ -97,3 +94,4 @@ Each sample includes:
 ├── .gitignore
 └── venv/ (ignored)
 ```
+
