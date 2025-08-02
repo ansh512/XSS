@@ -77,21 +77,3 @@ Each sample includes:
 
 
 ---
-
-## 🔍 Folder Structure
-
-```
-├── data/
-│   ├── XSS.csv
-│   ├── benign.csv
-│   └── features.ipynb
-├── model/
-│   ├── cnn_model.ipynb
-│   ├── cnn_lstm_model.ipynb
-│   └── model_utils.py
-├── Output.csv
-├── README.md
-├── .gitignore
-└── venv/ (ignored)
-```
-
